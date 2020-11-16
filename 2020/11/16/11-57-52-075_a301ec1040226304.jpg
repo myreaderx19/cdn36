@@ -1,0 +1,3976 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/14020288-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<title>La ciencia vs los estilos de aprendizaje</title>
+<meta content='index, follow' name='robots'/>
+<meta content='1 days' name='revisit-after'/>
+<meta content='all' name='robots'/>
+<meta content='all' name='googlebot'/>
+<meta content='blogger' name='generator'/>
+<meta content='general' name='rating'/>
+<style id='page-skin-1' type='text/css'><!--
+/**
+* Theme Name: Metrominimalist
+* Theme URL: http://metrominimalist.blogspot.com
+* Description: Minimalist blogger template
+* Author: Johanes DJ
+* Author URL: http://Djogzs.blogspot.com
+*
+*/
+.navbar {
+visibility:hidden;
+display:none;
+}
+#content{
+width: 650px;
+padding: 11px 15px 10px 15px;
+float: left;
+display: inline;
+position: relative;
+}
+.postim{
+background:#fff;
+padding:10px;
+margin-top:10px;
+}
+.post { overflow:hidden; }
+.profile-textblock {
+margin: .5em 0;
+text-align: justify;
+font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 300;
+font-size: 10pt;
+letter-spacing: 0.02em;
+line-height: 20px;
+font-smooth: always;
+}
+.profile-img {
+float: left;
+margin: 0 5px 5px;
+border: 1px solid #DDD;
+padding: 5px;
+border-radius: 5px;
+}
+.PopularPosts img{padding:0px;border-radius: 5px;-webkit-filter: saturate(0.0);
+-moz-filter: saturate(0.0);-moz-transition: all 0.2s ease-in-out;
+-webkit-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;}
+.PopularPosts img:hover {-webkit-filter: saturate(1.1);
+-moz-filter: saturate(1.1);}
+.PopularPosts .item-thumbnail {
+float: left;
+margin: 0 5px 5px 0;
+height: 72px;
+padding: 5px;
+}
+.comments .comments-content .user {
+font-style: normal;
+font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 200;
+font-size: 16pt;
+letter-spacing: 0.01em;
+color: #fff;
+}
+.comments {
+clear: both;
+background: #FAFAFA;
+padding: 30px;
+}
+.comments .comments-content .datetime {
+font-style: normal;
+float: right;
+margin-right: 10px;
+font-style: normal;
+font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 200;
+font-size: 12pt;
+letter-spacing: 0.01em;
+color: #fff;
+margin-top: 7px;
+}
+.bigcom {
+padding: 3px;
+text-align:left;}
+.post h2{
+text-align: left;
+color: #222;
+padding: 5px;
+-moz-transition: all 0.2s ease-in-out;
+-webkit-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+float: right;
+width: 330px;
+font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 200;
+font-size: 20pt;
+letter-spacing: 0.01em;
+line-height: 24pt;
+font-smooth: always;
+}
+.post h2 a:link,.post h2 a:visited{
+color:#000;
+}
+.bigcom a{
+text-decoration: none;
+color: #000;
+-moz-transition: all 0.2s ease-in-out;
+-webkit-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+text-align: left;
+margin-left:13px;
+}
+.leftmeta {
+text-decoration: none;
+color: #000;
+text-align: left;
+-moz-transition: all 0.2s ease-in-out;
+-webkit-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+padding: 3px;
+margin-left:13px;
+}
+.timemeta {
+-moz-transition: all 0.2s ease-in-out;
+-webkit-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+text-decoration: none;
+color: #000;
+padding: 3px;
+text-align:left;
+margin-left: 13px;
+}
+.bigcom a:link, .bigcom a:visited{
+color:#000;
+}
+.arrow{
+position:absolute;
+top:50px;
+left:-10px;
+height:30px;
+width:10px;
+}
+.postright{
+position: relative;
+background:url('http://1.bp.blogspot.com/-KMV_dQzVb7g/UTZhSzogN_I/AAAAAAAABBs/M0hLqDYJP4Y/s000/noimagebyjohanes.png') no-repeat top left;
+min-height: 170px;
+}
+.postright img{-moz-transition: all 0.2s ease-in-out;
+-webkit-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;}
+.categ{
+color: #000;
+padding: 3px;
+margin-left:13px;}
+.categ a:link,.categ a:visited {
+text-decoration:none;
+text-align: center;color:#000;
+padding: 3px;
+-moz-transition: all 0.2s ease-in-out;
+-webkit-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+}
+.data{
+padding: 3px;
+font-size: 17px;
+font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 200;
+letter-spacing: 0.01em;
+color: #fff;
+border-top: 1px solid #ddd;
+}
+.author,.clock{
+padding: 3px 20px;
+margin: 0px 0px 0px -10px;
+font-size: 17px;
+color: #000;
+}
+.clock {float:right;}
+.widget-content{padding: 10px;
+color: #666;
+padding-bottom: 15px;}
+.comments .comments-content .comment-header, .comments .comments-content .comment-content {
+margin: 0 10px 10px;
+}
+#ArchiveList ul li {
+margin: -6px 0 0 10px !important;
+}
+#ArchiveList ul li a:link, #ArchiveList ul li a:visited {
+padding: 0px 0px 0px 10px !important;
+margin:5px;
+}
+#commentsbox {
+margin:0;
+width:600px;
+}
+h3#comments{
+font-size30px;
+font-family: 'Open Sans', sans-serif;
+color:#ffffff;
+font-weight:normal;
+padding:10px 10px ;
+background:#D3D4CE;
+margin-top:10px;
+}
+ol.commentlist {
+margin:0px 0 0;
+clear:both;
+overflow:hidden;
+list-style:none;
+}
+ol.commentlist li {
+margin:0px 0;
+line-height:18px;
+padding:10px;
+background:#78786D;
+}
+ol.commentlist li .comment-author {
+color:#ffffff;
+}
+.comment-body {
+margin: auto;
+-webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.5);
+-moz-box-shadow: 0 1px 4px rgba(0,0,0,0.5);
+box-shadow: 0 1px 4px rgba(0,0,0,0.5);
+padding: 5px;
+}
+ol.commentlist li .comment-author a:link,ol.commentlist li .comment-author a:visited{
+color:#ffffff;
+font-weight:bold;
+text-decoration:none !important;font-size:15px;font-family: 'Open Sans', sans-serif;}
+}
+ol.commentlist li .comment-author .fn {
+color:#000;
+}
+ol.commentlist li .comment-author .avatar{
+float:right;
+background:#fff;
+padding:3px;
+}
+.comments .comments-content .comment-content {
+text-align: justify;
+border-bottom: 1px solid #DDD;
+padding-top: 10px;
+font-style: normal;
+font-size: 11pt;
+letter-spacing: 0.01em;
+color: #000;
+}
+.comments .comment .comment-actions a {
+padding: 5px;
+font-size: 13px;
+font-family: 'Open Sans', sans-serif;
+text-decoration: none;
+text-align: center;
+color: #fafafa;
+margin: 5px;
+position: relative;
+background: #b90000;
+text-shadow: 1px 1px 1px #362c30;
+}
+.comments .comments-content .comment-replies {
+margin-left: 65px;
+margin-top: 1em;
+}
+.comments .comments-content .inline-thread {
+padding: .5em 0em;
+}
+.comments h4{
+background: #fff;
+padding: 10px;
+border-radius: 5px;
+border: 1px solid #ddd;
+font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 200;
+font-size: 15pt;
+letter-spacing: 0.01em;
+color: #000;}
+.comments .continue a {
+padding: 5px;
+font-size: 13px;
+text-decoration: none;
+text-align: center;
+color: #222;
+margin-left: 75px;
+background: white;
+border: 1px solid #DDD;
+border-radius: 5px;
+}
+.avatar-image-container {
+float:right;
+height:50px;
+width:50px;
+}
+.avatar-image-container img {
+height:50px;
+width:50px;
+}
+.comments .avatar-image-container {
+float: left;
+max-height: 50px;
+overflow: hidden;
+width: 50px;
+padding: 5px;
+border-radius: 5px;
+background: white;
+}
+.comments .avatar-image-container img {height:auto;border-radius: 5px;}
+ol.commentlist li .comment-meta{
+font-size:13px;font-family: 'Open Sans', sans-serif;
+}
+ol.commentlist li .comment-meta .commentmetadata{
+color:#555;
+}
+ol.commentlist li .comment-meta a {
+color:#ffffff;
+text-decoration:none !important;
+}
+ol.commentlist li p {
+line-height:22px;
+margin-top:5px;
+color:#FEFAEF;
+font-size:12px;
+}
+ol.commentlist li .reply{
+margin-top:10px;
+font-size:10px;
+}
+ol.commentlist li .reply a{
+background:#5F553B;
+color:#fff;
+text-decoration:none;
+padding:3px 10px;
+}
+ol.commentlist li.odd {
+background:#D3D4CE;
+}
+ol.commentlist li.even {
+}
+ol.commentlist li.even:hover{BACKGROUND:#D3D4CE;}
+ol.commentlist li ul.children {
+list-style:none;
+margin:1em 0 0;
+text-indent:0;
+}
+ol.commentlist li ul.children li.depth-2 {
+margin:0 0 0px 50px;
+}
+ol.commentlist li ul.children li.depth-3 {
+margin:0 0 0px 50px;
+}
+ol.commentlist li ul.children li.depth-4 {
+margin:0 0 0px 50px;
+}
+ol.commentlist li ul.children li.depth-5 {
+margin:0 0 0px 50px;
+}
+.comment-nav{
+padding:5px ;
+height:20px;
+background:#C4D533;
+}
+.comment-nav a:link,.comment-nav a:visited{
+color:#fff;
+}
+#respond{
+padding:20px;
+margin:20px 0px;
+}
+#respond h3 {
+font-size:20px;
+font-family: 'Open Sans', sans-serif;
+color:#000;
+padding-bottom:10px;
+}
+#commentform p{
+margin:5px 0px;
+}
+#respond label{
+display:block;
+padding:5px 0;
+font-weight:bold;
+color:#3F361F;
+}
+#respond label small {
+font-size:10px;
+}
+#respond input {
+margin-bottom:10px;
+padding:5px 0px;
+margin:0 10px 10px 0;
+background:#6F6753;
+color:#F7EEE9;
+}
+#commentform input{
+width:99%;
+}
+#respond input#commentSubmit {
+width:100px;
+padding:5px 0px;
+background:#B7CD2C;
+color:#fff;
+margin:10px 0px;
+font-weight:bold;
+cursor:pointer;
+}
+textarea#comment{
+background:#6F6753;
+width:99%;
+margin:0px 0px;
+padding:5px 0px;
+color:#F7EEE9;
+}
+html,body,div,span,object,h1,h2,h3,h4,h5,h6,p
+,pre,a,abbr,acronym,address,big,cite
+,code,del,dfn,em,img,ins,kbd,q,samp,small
+,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,
+form,label,legend,table,caption,tbody,tfoot,
+thead,tr,th,td{
+margin:0;
+padding:0;
+vertical-align:baseline;
+outline:none;
+}
+b,i,hr,u,center,menu,layer,s,strike,font,xmp
+{
+margin:0;
+padding:0;
+vertical-align:baseline;
+outline:none;
+font-size:100%;
+background:transparent;
+border:none;
+}
+font{
+color:#333
+}
+center{
+text-align:left
+}
+body {
+margin: 0 auto;
+padding: 0px 0px 0px 0px;
+background: #fafafa;
+font-family: 'Open Sans', sans-serif;
+color: #312C21;
+overflow-x: hidden;
+font-size: 13px;
+}
+a {
+color: #222;
+text-decoration: none;
+}
+a:visited {
+color: #000;
+}
+a:hover, a:active {
+color: #000;
+text-decoration:none;
+}
+h1,h2, h3, h4, h5, h6 {
+color: #000;
+font-weight: bold;
+}
+h1 {
+font-size: 85px;
+font-family: 'Open Sans', sans-serif;}
+h2 {
+font-size: 21px;
+}
+h3 {
+font-size: 19px;
+}
+h4 {
+font-size: 17px;color:#222;
+}
+h5 {
+font-size: 15px;
+}
+h6 {
+font-size: 13px;
+}
+ul {
+list-style: none;
+}
+blockquote {
+font-style: italic;
+color: black;
+border: 1px double #DDD;
+padding: 25px;
+border-radius: 5px;
+overflow: hidden;
+background: white;
+}
+blockquote blockquote {
+color: #222;
+}
+blockquote em {
+font-style: normal;
+}
+pre {
+padding: 9px;
+background: #f9f9f9;
+border: 1px solid #ccc;
+}
+code {
+padding: 0 3px;
+background: #eee;
+}
+pre code {
+background: transparent;
+}
+.clear {
+clear:both;
+}
+img.centered {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 10px;
+padding: 0px;
+}
+#casing{
+padding: 10px 10px 10px 10px;
+background: #fff;
+width: 1000px;
+margin: auto;
+border-radius: 0px 0px 5px 5px;
+}
+#wrapper{
+width:1020px;
+margin:auto;
+background:#fff;
+}
+#header{
+width: 1020px;
+position: relative;
+margin: auto;
+height: 180px;
+background: #fff;
+overflow: hidden;
+border-bottom: 1px solid #ddd;
+}
+h1#blog-title {
+text-align: left;
+margin-top: 30px;
+margin-left: 25px;
+font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 200;
+font-size: 42pt;
+letter-spacing: 0.00em;
+color: #000000;
+padding-right: 10px;
+}
+h1#blog-title a {padding:5px;color:#000;}
+h1#blog-title a:link,h1#blog-title a:visited {
+color: #000;
+}
+h2#blog-desc {
+padding: 3px;
+text-align: left;
+font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 200;
+font-size: 20pt;
+margin-left:10px;
+letter-spacing: 0.01em;
+color: #000000;
+margin-left: 30px;
+}
+.title h2{
+text-decoration: none;
+padding: 10px;
+margin-bottom: 15px;
+line-height: 30px;
+text-align: left;
+font-weight: normal;
+margin: auto;
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 200;
+font-size: 20pt;
+letter-spacing: 0.01em;
+color: #fff;
+}
+.title h2 a:link, .title h2 a:visited{
+color:#000;text-decoration: none;
+}
+.postmeta, .postinfo{
+background:#F5ECC1;
+padding:3px 10px;
+border:1px solid #DFD5A7;
+font-size:10px;
+text-transform:uppercase;
+}
+.post {
+display: inline;position:relative;
+width: 650px;margin-bottom:35px;
+float: left;padding-bottom:1px;}
+.pagepost{
+width: 610px;
+float: left;
+padding: 20px;
+line-height: 1.8;
+margin-bottom: 25px;
+font-weight: 300;
+font-size: 11pt;
+letter-spacing: 0.02em;
+}
+.pagepost a{color:#b90000;text-decoration:underline;}
+.pagepost a:hover {color:#b90000;}
+.widget {
+margin: auto;}
+.singlepst p:first-letter {
+font-size : 30px;
+font-weight : bold;
+float : left;
+font-family: 'Open Sans', sans-serif;
+color : #3F3A2B;
+margin:8px 5px 0px 0px;
+}
+.cover {
+margin:0 0;
+color:#222;
+}
+h2.pagetitle{
+font-size:14px;
+padding:10px 0px;
+font-weight:normal;
+margin-right:10px;
+color:#6F6753;
+text-align:right;
+text-shadow: 0px 1px 1px black;
+}
+.comments .avatar-image-container img {
+max-width: 50px;
+}
+.item-title a {font-size:20pt;
+padding-bottom: .2em;}
+#main3 .widget-content, #main4 .widget-content, #main5 .widget-content, #main6 .widget-content{
+overflow: hidden;
+color: #fff;
+margin-bottom: 20px;
+padding: 20px;
+background: #b90000;
+font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 300;
+font-size: 10pt;
+letter-spacing: 0.02em;
+line-height: 20px;}
+#main3 h2, #main4 h2, #main5 h2, #main6 h2 {
+text-align: left;
+margin: auto;
+padding: 5px 5px;
+padding-left: 15px;
+background: #b90000;
+margin-top: 9px;
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 200;
+font-size: 20pt;
+letter-spacing: 0.01em;
+color: #fff;
+}
+#main3 ul li a:link, #main3 ul li a:visited, #main4 ul li a:link, #main4 ul li a:visited, #main5 ul li a:link, #main5 ul li a:visited, #main6 ul li a:link, #main6 ul li a:visited {-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 200;
+font-size: 12pt;
+letter-spacing: 0.01em;
+line-height: 24pt;
+font-smooth: always;
+color: #fff;}
+#main3 ul li, #main4 ul li, #main5 ul li, #main6 ul li {border-bottom: 1px solid #DDD;}
+#main3 ul li a:hover, #main4 ul li a:hover, #main5 ul li a:hover, #main6 ul li a:hover {color:#000;}
+.footer {
+margin: 0 auto;
+z-index: 1;
+text-align: left;
+position: relative;
+padding:25px;
+}
+.widget ul li a span.ltr {display:none;}
+.widget ul {
+line-height: 2.0;
+}
+#footer{
+font-size: 11px;
+color: black;
+background: #b90000;
+margin: auto;
+-moz-transition: all 0.3s ease-in-out;
+-webkit-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;
+border-top: 1px solid #ddd;
+}
+.fleft{
+text-align: center;
+margin: auto;
+width: 1020px;
+background:#fff;
+padding-top:5px;
+padding-bottom:5px;
+color: #000;
+font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 300;
+font-size: 10pt;
+letter-spacing: 0.02em;
+}
+.fleft p {
+text-align: center;
+}
+.fleft a{color:#b90000;}
+#Label1 ul li{font-family: 'Open Sans', sans-serif;}
+#LinkList1 ul li{font-family: 'Open Sans', sans-serif;}
+.crop:hover {-webkit-filter: saturate(1.1);
+-moz-filter: saturate(1.1);}
+.crop {
+width: 300px;
+height:auto;
+position:relative;
+overflow: hidden;
+float: left;
+-moz-transition: all 0.4s ease;
+-webkit-transition: all 0.4s ease;
+-o-transition: all 0.4s ease;
+transition: all 0.4s ease;
+-webkit-filter: saturate(0.0);
+-moz-filter: saturate(0.0);
+}
+.posting {
+float: right;
+padding: 5px;
+width: 330px;
+text-align: left;
+font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 300;
+font-size: 10pt;
+letter-spacing: 0.02em;
+line-height: 20px;
+font-smooth: always;
+}
+.breadcrumb {
+list-style: none;
+overflow: hidden;
+text-align: left;
+color: #222;
+width: 650px;
+font-size: 12px;
+z-index: 9;}
+.section {margin:auto;}
+.breadcrumb ul{margin:auto;}
+.breadcrumb li {
+position: relative;
+display: block;
+color: black;
+float: left;
+text-decoration: none;
+font-weight: 300;
+font-size: 10pt;
+letter-spacing: 0.02em;
+padding: 10px 10px;}
+.home-link {
+display:none;}
+#blog-pager-newer-link {
+float: right;
+color: white;
+padding: 10px;
+text-align: center;
+overflow: hidden;}
+#blog-pager-older-link {
+float: left;
+padding: 10px;
+text-align: center;
+overflow: hidden;}
+#blog-pager-older-link a, #blog-pager-newer-link a {color: #222;
+line-height: 33px;
+padding: 5px;
+background: white;
+border: 1px solid #DDD;
+border-radius: 5px;}
+#blog-pager {
+color: #DDD;
+text-align: center;
+text-transform: capitalize;
+font-size: 16px;
+float: left;
+font-weight: normal;
+letter-spacing: -1px;
+font-family: 'Open Sans', sans-serif;
+overflow: hidden;
+-moz-transition: all 0.2s ease-in-out;
+-webkit-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+width: 593px;}
+.comments .comments-content {
+margin-bottom: 16px;}
+.comments .comment-block {
+margin-left: 75px;
+position: relative;
+border: 1px solid #DDD;
+background: white;
+padding: 10px;
+border-radius: 5px;
+min-height: 83px;}
+.johanesdj {
+position: absolute;
+-moz-transition: all 0.3s ease-in-out;
+-webkit-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;
+text-align: left;
+color: #FAFAFA;
+overflow: hidden;
+font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 200;
+font-size: 14pt;
+letter-spacing: 0.01em;
+font-smooth: always;
+top: 44px;
+background: #fff;
+width: 350px;
+height: 165px;
+opacity: 0;
+right: 0px;
+}
+.johanesdj:hover{opacity:1;}
+.blognames {margin:auto;}
+.jomorelink{
+position: absolute;
+-moz-transition: all 0.3s ease-in-out;
+-webkit-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;
+z-index: 2;
+left: 260px;
+text-align: right;
+height: 30px;
+overflow: hidden;
+top: 7px;
+border-radius: 50px;
+border: 2px solid #fff;
+width: 30px;
+font-family: arial;}
+.pagepost a {text-decoration: underline;}
+.pagepost img{max-width:515px;padding: 3px;
+border: 1px solid #DDD;
+-webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+-moz-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+height:auto;}
+.BlogArchive #ArchiveList ul li {
+background: none;
+list-style: none;
+list-style-image: none;
+list-style-position: outside;
+border-width: 0;
+padding-left:0px;
+text-indent:0px;
+margin:0;
+background-image: none;}
+#ArchiveList .toggle-open {
+line-height: .6em;
+float: left;
+margin-top: 8px;}
+.post-count {display:none;}
+.post-footer-line-1 {
+border-top: 1px solid #fafafa;}
+.icon-action {display:none;}
+ul.dark_menu {
+list-style: none;
+padding: 5px 1px;
+font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+font-weight: 200;
+font-size: 16px;
+letter-spacing: 0.01em;
+font-smooth: always;
+color: #000000;
+line-height: 15px;
+margin: auto;
+width: 1018px;
+position: relative;
+background: #b90000;
+}/* Blog johanes djogzs.blogspot.com */
+ul.dark_menu:after {
+content: "";
+clear: both;
+display: block;
+overflow: hidden;
+visibility: hidden;
+width: 0;
+height: 0;}
+ul.dark_menu li {
+float: left;
+position: relative;
+margin: 1px;}
+/* Blog johanes djogzs.blogspot.com */
+ul.dark_menu li a, ul.dark_menu li a:link {
+color: #fafafa;
+text-decoration: none;
+display: block;
+padding: 8px 26px;
+-webkit-transition: all 0.2s ease;
+-moz-transition: all 0.2s ease;
+-o-transition: all 0.2s ease;
+-ms-transition: all 0.2s ease;
+transition: all 0.2s ease;
+}/* Blog johanes djogzs.blogspot.com */
+ul.dark_menu li a:hover {
+color: #fafafa;
+-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}/* Blog johanes djogzs.blogspot.com */
+ul.dark_menu li a.selected {
+border-right: 1px solid #ddd;
+text-transform: uppercase;
+margin-left: 10px;
+}
+ul.dark_menu li a.selected, ul.dark_menu li a:active {
+color: #fafafa;
+-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+transition: all 0.5s ease;}
+ul.dark_menu li ul {
+display: none;
+}/* Blog johanes djogzs.blogspot.com */
+ul.dark_menu li ul:before {
+content: " ";
+position: absolute;
+display: block;
+z-index: 1500;
+left: 0;
+top: -10px;
+height: 10px;
+width: 100%;}
+ul.dark_menu li ul {-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+transition: all 0.5s ease;top:55px;}
+ul.dark_menu li:hover ul {
+position: absolute;
+display: block;
+z-index: 1000;
+box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+left: 0;border-radius: 0px 0px 5px 5px;
+top: 37px;
+padding: 5px 0;
+list-style: none;
+background: #fff;
+}/* Blog johanes djogzs.blogspot.com */
+ul.dark_menu li ul li {
+float: none;
+margin:0px;}
+ul.dark_menu li ul li:first-child {
+margin:0px;
+border-top: 0 none;}
+ul.dark_menu li ul li:last-child {
+border-bottom: 0 none;
+}/* Blog johanes djogzs.blogspot.com */
+ul.dark_menu [data-role="dropdown"] > a::before {
+position: absolute;
+content: "^";
+display: block;
+font-size: 15px;
+left: 100%;
+margin-left: -20px;
+top: 10px;
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+}
+ul.dark_menu li ul li a, ul.dark_menu li ul li a:link {
+color: #222;
+display: block;
+background: transparent none;
+padding: 10px 25px 10px 25px;
+white-space: nowrap;}
+ul.dark_menu li ul li a:hover {
+background:#2D89EF;-moz-transition: all 0.1s ease-in-out;color:#fff;
+-webkit-transition: all 0.1s ease-in-out;
+}/* Blog johanes djogzs.blogspot.com */
+.menujohanes{position:relative;}
+#search input[type="text"]:hover {width:848px;}
+#search input[type="text"] {
+background: #fff url("http://2.bp.blogspot.com/-QrhUJtUBTdc/UTZhTNtkwFI/AAAAAAAABB0/SSp7EhBqyak/s000/search_32x32-32.png")no-repeat center left;
+font-size: 13px;
+color: #222;
+width: 0px;
+padding: 10px 0px 11px 35px;
+z-index: 9;
+border: 1px solid #fff;
+-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+margin-bottom: -1px;
+position: absolute;
+top: 0px;
+right:27px;}
+#main4, #main5, #main6 {
+width: 303px;
+list-style-type: none;
+float: left;
+margin: 10px;}
+.main3 {width:305px;
+list-style-type: none;
+padding-top: 10px;
+float: left;}
+::-webkit-scrollbar {
+height:12px;
+background: #474747;}
+::-webkit-scrollbar-thumb {
+background-color: #000;
+}
+#container1 {padding: 10px;
+background: #DDD;
+width: 50%;
+margin: auto;
+text-align: center;
+border: 3px double #BBB;}
+a.anes{
+font-size: 25px;
+color: #fff;
+-moz-transition: all 0.2s ease-in-out;
+-webkit-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+line-height: 29px;
+font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+}
+#footer a:hover{color:#000;}
+.comment-form {
+max-width: 520px;
+_width: 410px;
+clear: both;
+background: white;
+padding: 20px;
+border: 1px solid #DDD;
+border-radius: 5px;
+margin-left: 75px;
+}
+.widget-item-control a{display:none;}
+#jocial{width: 305px;
+float: left;margin-top: 10px;}
+#jocial li{position:relative; cursor:pointer; padding: 0 !important;}
+#jocial .facebook, .googleplus, .rss, .twitter{
+position: relative;
+-moz-transition: all 0.4s ease-in-out;
+-webkit-transition: all 0.4s ease-in-out;
+-o-transition: all 0.4s ease-in-out;
+transition: all 0.4s ease-in-out;
+z-index: 5;
+display: block;
+float: left;
+margin: 1px;}
+#jocial .icon{overflow:hidden;}
+#jocial .facebook{width: 150px;
+height: 150px;
+background: rgba(185,0,0,1) url("http://1.bp.blogspot.com/-UKryCh_9ofg/UTZhTsKo1JI/AAAAAAAABB8/nZELvc-I_mU/s000/facebook.png") no-repeat center center;}
+#jocial .twitter{width: 150px;
+height: 74px;
+background: rgba(185,0,0,1) url("http://3.bp.blogspot.com/-l7ZToPjmMuU/UTZhUBsetSI/AAAAAAAABCE/7mAmFM2I3Vg/s000/twitter.png") no-repeat center center;}
+#jocial .googleplus{width: 150px;
+height: 74px;
+background: rgba(185,0,0,1) url("http://2.bp.blogspot.com/-BlNwAezZeJE/UTZhUQqnRiI/AAAAAAAABCM/R_lwCLevtBQ/s000/google%25252Bplus.png") no-repeat center center;}
+#jocial .rss{ width: 302px;
+height: 74px;
+background: rgba(185,0,0,1) url("http://4.bp.blogspot.com/-rAtL540hTiU/UTZhUjdTDrI/AAAAAAAABCU/6msqfzMDbG8/s000/rss.png") no-repeat center center;}
+#jocial li:hover .facebook{background-color:#3468B6;-moz-transition: all 0.1s ease-in-out;
+-webkit-transition: all 0.1s ease-in-out;}
+#jocial li:hover .twitter{background:rgba(64,153,255,1) url("http://3.bp.blogspot.com/-l7ZToPjmMuU/UTZhUBsetSI/AAAAAAAABCE/7mAmFM2I3Vg/s000/twitter.png") no-repeat center center;-moz-transition: all 0.1s ease-in-out;
+-webkit-transition: all 0.1s ease-in-out;}
+#jocial li:hover .googleplus{background:rgba(228,69,36,1) url("http://2.bp.blogspot.com/-BlNwAezZeJE/UTZhUQqnRiI/AAAAAAAABCM/R_lwCLevtBQ/s000/google%25252Bplus.png") no-repeat center center;-moz-transition: all 0.1s ease-in-out;
+-webkit-transition: all 0.1s ease-in-out;}
+#jocial li:hover .rss{background:rgba(255,102,0,1) url("http://4.bp.blogspot.com/-rAtL540hTiU/UTZhUjdTDrI/AAAAAAAABCU/6msqfzMDbG8/s000/rss.png") no-repeat center center;-moz-transition: all 0.1s ease-in-out;
+-webkit-transition: all 0.1s ease-in-out;}
+.PopularPosts .item-title a {font-size:20pt;
+padding-bottom: .2em;}
+#navbar1, #Attribution1 {display:none;}
+
+--></style>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
+<script type='text/javascript'>
+var thumbnail_mode = "float" ;
+summary_noimg = 250;
+summary_img = 250;
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+function removeHtmlTag(strx,chop){
+if(strx.indexOf("<")!=-1)
+{
+var s = strx.split("<");
+for(var i=0;i<s.length;i++){
+if(s[i].indexOf(">")!=-1){
+s[i] = s[i].substring(s[i].indexOf(">")+1,s[i].length);
+}
+}
+strx = s.join("");
+}
+chop = (chop < strx.length-1) ? chop : strx.length-2;
+while(strx.charAt(chop-1)!=' ' && strx.indexOf(' ',chop)!=-1) chop++;
+strx = strx.substring(0,chop-1);
+return strx+'.';
+}
+function createSummaryAndThumb(pID){
+var div = document.getElementById(pID);
+var imgtag = "";
+var img = div.getElementsByTagName("img");
+var summ = summary_noimg;
+if(img.length>=1) {
+imgtag = '<div class="crop"><img src="'+img[0].src+'" width="300px;" /></div>';
+summ = summary_img;
+}
+var summary = imgtag + '<div class="posting">' + removeHtmlTag(div.innerHTML,summ) + '</div>';
+div.innerHTML = summary;
+}
+//]]>
+</script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=3486625946567547432&amp;zx=dd97c529-4ed9-4e5a-b914-1d20fd31c8db' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=3486625946567547432&amp;zx=dd97c529-4ed9-4e5a-b914-1d20fd31c8db' rel='stylesheet'/></noscript>
+
+<script type="text/javascript" language="javascript">
+  // Supply ads personalization default for EEA readers
+  // See https://www.blogger.com/go/adspersonalization
+  adsbygoogle = window.adsbygoogle || [];
+  if (typeof adsbygoogle.requestNonPersonalizedAds === 'undefined') {
+    adsbygoogle.requestNonPersonalizedAds = 1;
+  }
+</script>
+
+
+</head>
+<body class='home blog'>
+<div id='wrapper'>
+<div class='menujohanes'><ul class='dark_menu'>
+<li><a class='selected' href='http://focorojomx.blogspot.com/' title='Inicio'>Inicio</a></li>
+<li data-role='dropdown'><a href='#'>Nosotros</a><ul>
+<li><a href='http://centrofocorojo.com/'>Foco Rojo</a></li>
+<li><a href='http://focorojomx.blogspot.mx/p/blog-page.html'>El Blog</a></li>
+<li><a href='http://focorojomx.blogspot.mx/p/aviso-de-privacidad.html'>Aviso de Privacidad</a></li>
+</ul></li><li data-role='dropdown'><a href='#'>Colaboradores</a><ul>
+<li><a href='http://focorojomx.blogspot.mx/p/colaboradores-internos.html'>Internos</a></li>
+<li><a href='http://focorojomx.blogspot.mx/p/colaboradores.html'>Externos</a></li>
+</ul></li><li data-role='dropdown'><a href='#'>Cursos</a><ul>
+<li><a href='http://focorojomx.blogspot.mx/p/egel-psi.html'>EGEL-PSI</a></li>
+<li><a href='https://focorojomx.blogspot.com/p/pbe.html'>Valoración del Testimonio</a></li>
+</ul></li><li data-role='dropdown'><a href='#'>Espacios</a><ul>
+<li><a href='http://focorojomx.blogspot.mx/p/espacio-para-el-analisis-critico-de-la.html'>Próximos</a></li>
+<li><a href='http://focorojomx.blogspot.mx/p/blog-page_6.html'>Pasados</a></li>
+</ul></li><li data-role='dropdown'><a href='#'>Simulador EGEL</a><ul>
+<li><a href='http://focorojomx.blogspot.mx/p/examen-simulador-egel-psi.html'>Fechas e inscripción</a></li>
+</ul></li>
+</ul>
+<form action='http://focorojomx.blogspot.com/search/' id='search' method='get'>
+<input name='q' placeholder='¿Buscabas algo?' size='40' type='text'/></form>
+</div>
+<div id='header'>
+<div class='blognames section' id='blognames'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='http://focorojomx.blogspot.com/' style='display: block'>
+<img alt='Foco Rojo' height='182px; ' id='Header1_headerimg' src='http://1.bp.blogspot.com/-lznAHa8WrCo/Vw_-OyQsEUI/AAAAAAAAAYU/hCbFE9pZmb4OANYslhDMoZy2HPrYU7beQCK4B/s1012-r/Header%2BBlog%2B2016.png' style='display: block' width='1012px; '/>
+</a>
+</div>
+</div></div>
+</div>
+<div id='casing'>
+<div id='content'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!--Can't find substitution for tag [defaultAdStart]-->
+
+        <div class="date-outer">
+      
+
+        <div class="date-posts">
+      
+<div class='post-outer'>
+<div class='breadcrumb'><ul>
+<li><a href='http://focorojomx.blogspot.com/' rel='tag'>Regresar</a> &#187;</li><li>
+<a href='http://focorojomx.blogspot.com/search/label/Basado%20en%20evidencia.' rel='tag'>Basado en evidencia.</a>
+,
+<a href='http://focorojomx.blogspot.com/search/label/Docencia' rel='tag'>Docencia</a>
+,
+<a href='http://focorojomx.blogspot.com/search/label/Educaci%C3%B3n' rel='tag'>Educación</a>
+,
+<a href='http://focorojomx.blogspot.com/search/label/Estilos%20de%20aprendizaje' rel='tag'>Estilos de aprendizaje</a>
+,
+<a href='http://focorojomx.blogspot.com/search/label/Estrategias%20de%20ense%C3%B1anza' rel='tag'>Estrategias de enseñanza</a>
+
+&#187;
+</li><li>
+La ciencia vs los estilos de aprendizaje</li></ul>
+</div>
+<div class='title'>
+<a name='4366698414791178861'></a>
+<h2>
+<a href='http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html' rel='bookmark' title='Permanent Link to La ciencia vs los estilos de aprendizaje'>La ciencia vs los estilos de aprendizaje</a>
+</h2>
+</div>
+<div class='data'>
+<span class='author'>Por Unknown</span>
+<span class='clock'>sábado, 14 de octubre de 2017</span>
+</div>
+<div class='pagepost'>
+<div class='cover'>
+<p><div class="separator" style="clear: both; text-align: center;">
+</div>
+<ul>
+<li><a href="https://3.bp.blogspot.com/-HU3aLoFrqoM/WeEeeJL_PZI/AAAAAAAABD0/yrndNuV0FRoedVyLYbfLZLqOlsex2UZ0QCLcBGAs/s1600/Jugando_a_aprender_BAJA.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="716" data-original-width="1417" height="323" src="https://3.bp.blogspot.com/-HU3aLoFrqoM/WeEeeJL_PZI/AAAAAAAABD0/yrndNuV0FRoedVyLYbfLZLqOlsex2UZ0QCLcBGAs/s640/Jugando_a_aprender_BAJA.jpg" width="640" /></a></li>
+</ul>
+<br />
+<br />
+<br />
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Si eres docente o estás inmerso en
+el área de la educación (u otras áreas relacionadas) probablemente has
+escuchado acerca de los estilos de aprendizaje. Es probable que la idea de que &#8220;<i>existen alumnos que son visuales y aprenden
+mejor con un video que escuchando al maestro&#8221; </i>&nbsp;te suene lógico aunque no seas un profesional
+de la educación.<o:p></o:p></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&#191;Qué pasaría si te dijera que no existe
+evidencia científica que respalde el uso de los estilos de aprendizaje? <o:p></o:p></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Hace unas semanas, platicando con
+un colega sobre cómo algunos de mis compañeros de clase de la Especialización
+en Docencia, se han obsesionado con el uso de los estilos de aprendizaje en sus
+centros de trabajo, me recomendó leer &nbsp;el
+artículo de Kirschner (2017) que precisamente clarifica los problemas que existen en
+torno a este tema.<o:p></o:p></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">En esta publicación haré un resumen
+de este artículo, que recientemente se publicó como comentario invitado
+en la revista Computers &amp; Education. He organizado la información en 4 partes, que se desarrollan a continuación:<o:p></o:p></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<b><span style="color: #c00000;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span></span></b></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<b><span style="color: #c00000;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Los estilos de aprendizaje.<o:p></o:p></span></span></b></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">De forma breve, la teoría acerca de
+los estilos de aprendizaje establece que existen diferencias en las
+características de las personas en cuanto a su forma de aprender, y que si
+adaptamos la instrucción educativa de acuerdo a ellas potencializaremos el
+aprendizaje en los estudiantes. Es decir, si un alumno tiene un <i>estilo auditivo</i>, aprenderá mejor si
+escucha al profesor que si se le pide identificar las ideas principales de la lección
+en el libro de texto. Esta idea es atractiva, ya que de este modo se consideran
+las diferencias de los estudiantes, propiciando un clima de inclusión. No
+obstante, existen problemas importantes sobre el uso de los estilos de
+aprendizaje</span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<b style="font-family: Arial, Helvetica, sans-serif; text-indent: -24px;"><span style="color: #c00000;">1.&nbsp;</span></b><b style="font-family: Arial, Helvetica, sans-serif; text-indent: -24px;"><span style="color: #c00000;">El problema de la clasificación:</span></b></div>
+<div class="MsoNormal" style="text-align: justify;">
+</div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">De acuerdo a los modelos que
+explican los estilos de aprendizaje, los estudiantes pertenecen a un grupo
+específico de estilo de aprendizaje (por ejemplo: los que son <i>visuales</i> o los que son <i>auditivos</i>); sin embargo, las
+características de las personas en las diferentes dimensiones del ser humano, son
+un continuo y no categorías específicas y concretas. Por ejemplo, consideremos
+los estilos <i>concretos vs abstractos</i>. En
+la figura 1, la teoría indicaría que los sujetos A y B son <i>concretos </i>y C y D son <i>abstractos,</i>
+ya que ambos se ubican de un lado u otro de la media (µ).</span><br />
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://4.bp.blogspot.com/-LNJBvYf3Bm8/WeEXMOtqkYI/AAAAAAAABDc/w8bMZ4Po-P41-MR6k8Fqkfy9CPNbuO7uACLcBGAs/s1600/grafica%2B1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="604" src="https://4.bp.blogspot.com/-LNJBvYf3Bm8/WeEXMOtqkYI/AAAAAAAABDc/w8bMZ4Po-P41-MR6k8Fqkfy9CPNbuO7uACLcBGAs/s1600/grafica%2B1.png" /></a></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , sans-serif;"><br /></span>
+<span style="font-family: &quot;arial&quot; , sans-serif;">Sin
+embargo, al observarlas en un continuo (figura 2), que es como realmente se presentan las diferencias en las personas, vemos que los sujetos B y C están en una
+posición cercana, lo que implica que éstos no tienen diferencias extremas,
+como se plantea desde la teoría de los estilos de aprendizaje.&nbsp;</span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp;</span><br />
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span></div>
+<div class="separator" style="clear: both; text-align: center;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><a href="https://2.bp.blogspot.com/-qabycE9omYQ/WeEXMPj07MI/AAAAAAAABDY/ODQYu-8FNT4XBNkhrxI6dvL3WWCCT__9gCLcBGAs/s1600/grafica%2B2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="241" data-original-width="574" src="https://2.bp.blogspot.com/-qabycE9omYQ/WeEXMPj07MI/AAAAAAAABDY/ODQYu-8FNT4XBNkhrxI6dvL3WWCCT__9gCLcBGAs/s1600/grafica%2B2.png" /></a></span></div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<br />
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Otro problema tiene que ver con el
+número de clasificaciones. Se ha llegado a establecer 49 estilos diferentes que
+se combinan y relacionan (por ejemplo, en el Learning Style&nbsp; Analysis, uno de los instrumentos más
+complejos para medir los estilos de aprendizaje). Si consideramos tan sólo 30
+variables dicotómicas (por ejemplo </span><i style="font-family: Arial, Helvetica, sans-serif;">visual
+&#8211; auditivo</i><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">) entonces hay 1, 073, 741, 842 estilos de aprendizaje
+diferentes. Son incluso más que la cantidad total de habitantes estimados en
+México. Es decir, hay al menos un estilo por cada persona. Si lo consideramos
+de forma práctica, en un aula de 35 alumnos tendríamos 35 estilos distintos de
+aprendizaje, por lo que tendríamos que adaptar la forma de enseñar de 35 formas
+distintas en cada lección. Además, esta cantidad hace que este sistema sea tan
+poco claro, que no sería sencillo etiquetar a los alumnos en un estilo
+particular.</span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<b style="font-family: Arial, Helvetica, sans-serif; text-indent: -24px;"><span style="color: #c00000;">2. El problema de la validez:</span></b></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Pese a que existen instrumentos
+para medir los estilos de aprendizaje y de la amplia literatura al respecto, la
+realidad es que no hay una manera confiable y válida para establecerlos.
+Coffield y otros (2004, en Kirschner, 2017), evaluaron las propiedades
+psicométricas básicas de 13 instrumentos utilizados con más frecuencia para medir
+los estilos de aprendizaje, encontrando que ninguno de ellos cuenta con todos
+estas propiedades (Tabla 1).<o:p></o:p></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://2.bp.blogspot.com/-7oMF05kl8PE/WeEXMaCAsII/AAAAAAAABDg/RkbJxpevMzAeOAsSeYsurjrbDbg1F7TdACLcBGAs/s1600/tabla%2B1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="630" data-original-width="609" src="https://2.bp.blogspot.com/-7oMF05kl8PE/WeEXMaCAsII/AAAAAAAABDg/RkbJxpevMzAeOAsSeYsurjrbDbg1F7TdACLcBGAs/s1600/tabla%2B1.png" /></a></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Por otro lado, la forma popular en
+la que se miden los estilos de aprendizaje, es a través de la autoevaluación.
+Es decir, que las personas indican las formas en las que prefieren aprender y
+con ello, se les encasilla en uno u otro estilo. No obstante, hay estudios que
+demuestran que los jóvenes a menudo mienten cuando reportan sus propias conductas.
+Además, se ha encontrado, que muy pocas veces se correlaciona la preferencia
+del alumno con sus habilidades reales. Por ejemplo, los estudiantes que
+reportaron preferir la información visual, tenían deficiencias reales en su
+capacidad espacial. <o:p></o:p></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Otro inconveniente con la
+autoevaluación es que, cuando una persona reporta que prefiere aprender de
+cierta forma, no significa que ésa sea la mejor forma para ellos. Por ejemplo,
+que un niño prefiera cenar dulces, no significa que sea lo mejor para él. En un
+metaanálisis (Clark, 1982 en Kirschner, 2017) se encontró que los estudiantes
+que indicaron preferencia hacia cierta forma de estudiar, no mejoraron su
+rendimiento académico cuando estudiaron de ésta forma, y que incluso en algunos
+casos, el rendimiento empeoró.<o:p></o:p></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<b style="font-family: Arial, Helvetica, sans-serif; text-indent: -24px;"><span style="color: #c00000;">3. El problema del método:</span></b></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Para determinar si una persona <i>visual</i> aprende mejor con video que
+escuchando un programa de radio, no basta con estudios de simple correlación. Una
+investigación adecuada debe realizarse considerando: a) determinar los estilos
+de aprendizaje y la adaptación de la instrucción educativa; b) distribuir
+aleatoriamente&nbsp; a los participantes en
+dos grupos; uno donde coincidan su estilo de aprendizaje con la la forma de
+presentar la información (por ejemplo, <i>verbales</i>
+a los que se les enseñe con textos), y otro donde el tema se presente de una
+forma contraria a su estilo (por ejemplo, <i>verbales</i>
+a los que se les enseñe con un video); y c) poderle a ambos grupos la misma
+prueba de evaluación.<o:p></o:p></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Considerando esta metodología,
+diversos estudios<a href="file:///C:/Users/Foco/Desktop/ART%C3%8DCULO%20PARA%20EL%20BLOG%20DE%20FOCO%20ROJO.docx#_ftn1" name="_ftnref1" title=""><span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size: 11pt; line-height: 107%;"><span style="color: #990000;">[1]</span></span></span><!--[endif]--></span></a>
+han encontrado que no existe relación entre el tipo de actividad con el que se
+enseña (según su estilo) con el desempeño académico.<o:p></o:p></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<b style="font-family: Arial, Helvetica, sans-serif; text-indent: -24px;"><span style="color: #c00000;">4. El problema del uso.</span></b></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Se ha mencionado anteriormente que el
+objetivo de determinar qué estilo de aprendizaje se tiene, es el de adaptar la
+instrucción educativa de acuerdo a ello, de tal forma que se consideren las
+diferencias de los alumnos y se garantice un aprendizaje adecuado. Por ejemplo,
+un estudiante con <i>estilo verbal</i>,
+aprendería mejor leyendo el libro de texto que escuchando un podcast.<o:p></o:p></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Algunos problemas al respecto se han
+planteado anteriormente. La existencia de la enorme cantidad de clasificaciones
+posibles y su complejidad, dificultan ésta tarea. Por otro lado, la falta de
+instrumentos y métodos válidos y confiables para determinarlos, implican que la
+primera tarea para lograr este objetivo no es posible de completarla.<o:p></o:p></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Sin embargo, el mayor problema está
+en que no existe tal relación entre los estilos de aprendizaje, la forma en la
+que se proporciona la información y el rendimiento académico. Por ejemplo, los modelos
+teóricos de los estilos de aprendizaje, indican que las personas que aprenden mejor
+a través de ejemplos son de <i>estilo
+concreto</i>, en tanto que aquellos que aprenden mejor con información más
+compleja son de <i>estilo abstracto. </i>Sin
+embargo, no existe evidencia rigurosa que explique esta relación. An y Carr
+(2017) concluyen que en realidad, depende de los conocimientos previos y el nivel
+de experticia. Aquellos que no conocen suficiente sobre un tema aprenden mejor
+con ejemplos concretos, ya que no tienen el conocimiento para comprender
+información más compleja. En tanto que los expertos no requieren de ejemplos,
+sino que son capaces de comprender textos abstractos.<o:p></o:p></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<b><span style="color: #c00000;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Conclusión<o:p></o:p></span></span></b></div>
+<div class="MsoNormal" style="line-height: 150%; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">No cabe duda de que existen
+diferencias individuales en los estudiantes y que probablemente éstas, influyan
+en su rendimiento y en la forma en la que aprenden. Sin embargo, los estilos de
+aprendizaje no son&nbsp; la mejor forma de
+entenderlos ni el mejor marco teórico que se puede usar para potenciar,
+modificar o considerar éstas diferencias a favor del aprendizaje.<o:p></o:p></span></div>
+<div class="MsoNormal">
+</div>
+<div>
+<div style="text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span>
+</div>
+<!--[if !supportFootnotes]--><br />
+<hr size="1" style="text-align: left;" width="33%" />
+<!--[endif]-->
+
+<br />
+<div id="ftn1">
+<div class="MsoFootnoteText" style="text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><a href="file:///C:/Users/Foco/Desktop/ART%C3%8DCULO%20PARA%20EL%20BLOG%20DE%20FOCO%20ROJO.docx#_ftnref1" name="_ftn1" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="line-height: 107%;"><span style="color: #cc0000; font-size: x-small;">[1]</span></span></span><!--[endif]--></span></a> <span style="font-size: x-small;">En
+el artículo original se pueden consultar las referencias a dichos estudios.</span></span><o:p></o:p></div>
+</div>
+</div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<br /></div>
+<h4>
+<span style="color: #cc0000; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><b>Referencias</b></span></h4>
+<div class="MsoNormal">
+<span class="notranslate"><span lang="EN-US" style="font-family: &quot;arial&quot; , sans-serif;">An,
+D., &amp; Carr, M.&nbsp;</span></span><span style="background-color: white; font-family: &quot;arial&quot; , sans-serif;">(2017).</span><span class="notranslate"><span lang="EN-US" style="font-family: &quot;arial&quot; , sans-serif; mso-ansi-language: EN-US;">&nbsp;Learning styles theory fails to explain learning and
+achievement: Recommendatio</span></span><span class="notranslate"><span lang="EN-US" style="font-family: &quot;arial&quot; , sans-serif; mso-ansi-language: EN-US;">ns for alternative approaches.</span></span><span lang="EN-US" style="background: white; font-family: &quot;arial&quot; , sans-serif;">&nbsp;<em>Personality and Individual Differences</em><span class="notranslate">,
+<a href="http://dx.doi.org/10.1016/j.paid."><span style="color: #cc0000;">http://dx.doi.org/10.1016/j.paid.</span></a></span></span></div>
+<div class="MsoNormal">
+<span lang="EN-US" style="background: white; font-family: &quot;arial&quot; , sans-serif;"><span class="notranslate"><br /></span></span></div>
+<div class="MsoNormal" style="line-height: 150%;">
+<span lang="EN-US" style="background: white; font-family: &quot;arial&quot; , sans-serif;">Kirschner, P. A.
+(2017). Stop propagating the learning styles myth.&nbsp;</span><em style="outline: 0px;"><span style="background: white; border: none 1.0pt; font-family: &quot;arial&quot; , sans-serif; padding: 0cm;">Computers
+&amp; Education,</span></em><span style="background: white; font-family: &quot;arial&quot; , sans-serif;">&nbsp;106, 166-71.&nbsp;</span></div>
+<div class="MsoNormal" style="line-height: 150%;">
+<span style="font-family: &quot;arial&quot; , sans-serif;"><span style="background: white;"><a href="http://www.sciencedirect.com/science/article/pii/S0360131516302482"><span style="color: #cc0000;">http://www.sciencedirect.com/science/article/pii/S0360131516302482</span></a></span></span><span lang="EN-US" style="font-family: &quot;arial&quot; , sans-serif; mso-ansi-language: EN-US;"><o:p></o:p></span></div>
+<!--[if gte vml 1]><v:group id="Group_x0020_42"
+ o:spid="_x0000_s1026" style='position:absolute;margin-left:85.5pt;
+ margin-top:85.15pt;width:447pt;height:195.5pt;z-index:251659264' coordsize="56769,24828"
+ o:gfxdata="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
+AAAAAAAhAJg95+D2jQAA9o0AABsAAABjbGlwYm9hcmQvbWVkaWEvaW1hZ2UxLmpwZWf/2P/gABBK
+RklGAAEBAAABAAEAAP/bAIQADQ0NDQ4NDhAQDhQWExYUHhsZGRseLSAiICIgLUQqMioqMipEPEk7
+NztJPGxVS0tVbH1pY2l9l4eHl761vvn5/wENDQ0NDg0OEBAOFBYTFhQeGxkZGx4tICIgIiAtRCoy
+KioyKkQ8STs3O0k8bFVLS1VsfWljaX2Xh4eXvrW++fn//8AAEQgFxAjwAwEiAAIRAQMRAf/EAHYA
+AQACAwEBAQAAAAAAAAAAAAAGBwMEBQIIARABAAICAgEDAwEIAQMDBQEBAAECAxEEBQYSITETIkFR
+FBUWIzJSYXFCU3KRByQ1MzSBocGCsQEBAAAAAAAAAAAAAAAAAAAAABEBAAAAAAAAAAAAAAAAAAAA
+AP/aAAwDAQACEQMRAD8As4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUa0ABaJmJ1LFOLWo0ygMdMftM2
+j3lkmsToAAACcdZ/AATT1fLzOP7noB+Vw4/f2l+gBMb/ACa95AAAAAAAAAAAAAA0AAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+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
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHZcynE417evVvwCAea9rFK5cdbat/QhXjHXxyuTGW9d
+1rdo95zL83scv5+/ULM8N6n9mxWnJAJtxuPXBjisAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAK9807alMPox5NZbWWD2PI+jx76tETqXz53XPnsOdaYrEVreYqDN0HXW53O
+xzatpiLbX9xePTBjiIrqUJ8P6mnG48Xv72TYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAA3ocjvOwnh8PPNZ1NaTIIj5j3n094aRq8xqqCdF1s8/l6tXdaudzeZl52ecuSZ3O
+oiFpeI9RGPFE2md62Cf9dgrg4eKkV9PsERoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAARnyji5eRFsda+10mMmOuSNWgFKdV41yZ5NL5darPwuXr+PXicatIrr2esfCw4ff0
+x6pZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/9lQSwECLQAUAAYACAAAACEAyOEzkhUBAABSAgAAEwAA
+AAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQCtMD/xwQAA
+ADIBAAALAAAAAAAAAAAAAAAAAEYBAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQDtb6nMtAcA
+ACo2AAAfAAAAAAAAAAAAAAAAADACAABjbGlwYm9hcmQvZHJhd2luZ3MvZHJhd2luZzEueG1sUEsB
+Ai0AFAAGAAgAAAAhAJStDd/UAAAArAEAACoAAAAAAAAAAAAAAAAAIQoAAGNsaXBib2FyZC9kcmF3
+aW5ncy9fcmVscy9kcmF3aW5nMS54bWwucmVsc1BLAQItABQABgAIAAAAIQC2OwQiVAYAAAsaAAAa
+AAAAAAAAAAAAAAAAAD0LAABjbGlwYm9hcmQvdGhlbWUvdGhlbWUxLnhtbFBLAQItAAoAAAAAAAAA
+IQCYPefg9o0AAPaNAAAbAAAAAAAAAAAAAAAAAMkRAABjbGlwYm9hcmQvbWVkaWEvaW1hZ2UxLmpw
+ZWdQSwUGAAAAAAYABgCwAQAA+J8AAAAA
+">
+ <v:group id="Group_x0020_40" o:spid="_x0000_s1027" style='position:absolute;
+  width:56769;height:24828' coordsize="56769,24828" o:gfxdata="UEsDBBQABgAIAAAAIQCi+E9TBAEAAOwBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRy07DMBBF
+90j8g+UtShxYIISadEGAHSAoHzCyJ4lFYlseN7R/z7iPDaJIXdpzz5wre7HcTKOYMZL1rpbXZSUF
+Ou2NdX0tP1dPxZ0UlMAZGL3DWm6R5LK5vFistgFJMO2olkNK4V4p0gNOQKUP6HjS+ThB4mPsVQD9
+BT2qm6q6Vdq7hC4VKe+QzaLFDtZjEo8bvt43iTiSFA/7YHbVEkIYrYbETdXszC9LcTCUTO4yNNhA
+V1xDqj8NeXJacOBe+WmiNSjeIKYXmLiGMpFUH/060AABOVj+vyp3najwXWc1lm2k5wx/ZPhY75TG
++G8XcT5X0DL2jvNxu9r9VfMDAAD//wMAUEsDBBQABgAIAAAAIQBsBtX+2AAAAJkBAAALAAAAX3Jl
+bHMvLnJlbHOkkMFKAzEQhu+C7xDm7mbbg4g025vQa63gNSSz2eAmE2biat/eWBBc6c3jzM9838/s
+9p9pVguyRMoGNl0PCrMjH3Mw8HJ6unsAJdVmb2fKaOCMAvvh9mZ3xNnWdiRTLKIaJYuBqdbyqLW4
+CZOVjgrmlozEydY2ctDFujcbUG/7/l7zbwYMK6Y6eAN88FtQp3Np5j/sFB2T0Fg7R0nTOEZ3jao9
+feQjLo1iOWA14FkuS8ala+VAX/du/ukNTO/lebIFX5tkZb9E8h01/08HvXro8AUAAP//AwBQSwME
+FAAGAAgAAAAhADMvBZ5BAAAAOQAAABUAAABkcnMvZ3JvdXBzaGFwZXhtbC54bWyysa/IzVEoSy0q
+zszPs1Uy1DNQUkjNS85PycxLt1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBL
+AwQUAAYACAAAACEA/o7tB8MAAADbAAAADwAAAGRycy9kb3ducmV2LnhtbERPy2rCQBTdC/2H4Ra6
+M5O0Wkp0FAlt6UIEk0Jxd8lck2DmTshM8/h7Z1Ho8nDe2/1kWjFQ7xrLCpIoBkFcWt1wpeC7+Fi+
+gXAeWWNrmRTM5GC/e1hsMdV25DMNua9ECGGXooLa+y6V0pU1GXSR7YgDd7W9QR9gX0nd4xjCTSuf
+4/hVGmw4NNTYUVZTect/jYLPEcfDS/I+HG/XbL4U69PPMSGlnh6nwwaEp8n/i//cX1rBKqwPX8IP
+kLs7AAAA//8DAFBLAQItABQABgAIAAAAIQCi+E9TBAEAAOwBAAATAAAAAAAAAAAAAAAAAAAAAABb
+Q29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAGwG1f7YAAAAmQEAAAsAAAAAAAAAAAAA
+AAAANQEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhADMvBZ5BAAAAOQAAABUAAAAAAAAAAAAA
+AAAANgIAAGRycy9ncm91cHNoYXBleG1sLnhtbFBLAQItABQABgAIAAAAIQD+ju0HwwAAANsAAAAP
+AAAAAAAAAAAAAAAAAKoCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABAD6AAAAmgMAAAAA
+">
+  <v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75"
+   o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_s1028" type="#_x0000_t75"
+   style='position:absolute;width:53606;height:24828;rotation:-219270fd;
+   visibility:visible;mso-wrap-style:square' o:gfxdata="UEsDBBQABgAIAAAAIQAEqzleAAEAAOYBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+90jcwfIWJU5ZIISSdEHKEipUDjCyJ4lFMrY8bmhvj9O0G0SRWNoz/78nu1wfxkFMGNg6quQqL6RA
+0s5Y6ir5sXvJHqXgCGRgcISVPCLLdX17U+6OHlmkNHEl+xj9k1KsexyBc+eR0qR1YYSYjqFTHvQn
+dKjui+JBaUcRKWZx7pB12WAL+yGKzSFdLyYBB5bieVmcWZUE7werISZTNZH5QcnOhDwlTzvcW893
+SUOqXwnz5DrgnHtLTxOsQbGFEF9hTBrKBFbe6rgPmLbyv3tm0ZEz17ZWY94E3i7Ji9g1gHFfFHD6
+b3uTYu84XdrV6ZfqbwAAAP//AwBQSwMEFAAGAAgAAAAhAAjDGKTUAAAAkwEAAAsAAABfcmVscy8u
+cmVsc6SQwWrDMAyG74O+g9F9cdrDGKNOb4NeSwu7GltJzGLLSG7avv1M2WAZve2oX+j7xL/dXeOk
+ZmQJlAysmxYUJkc+pMHA6fj+/ApKik3eTpTQwA0Fdt3qaXvAyZZ6JGPIoioliYGxlPymtbgRo5WG
+Mqa66YmjLXXkQWfrPu2AetO2L5p/M6BbMNXeG+C934A63nI1/2HH4JiE+tI4ipr6PrhHVO3pkg44
+V4rlAYsBz3IPGeemPgf6sXf9T28OrpwZP6phof7Oq/nHrhdVdl8AAAD//wMAUEsDBBQABgAIAAAA
+IQAzLwWeQQAAADkAAAASAAAAZHJzL3BpY3R1cmV4bWwueG1ssrGvyM1RKEstKs7Mz7NVMtQzUFJI
+zUvOT8nMS7dVCg1x07VQUiguScxLSczJz0u1VapMLVayt+PlAgAAAP//AwBQSwMEFAAGAAgAAAAh
+AHd6bu++AAAA2gAAAA8AAABkcnMvZG93bnJldi54bWxET82KwjAQvgu+QxjBi6ypIqJdo6ioeLX6
+ALPNbFttJqWJtr69EQRPw8f3O4tVa0rxoNoVlhWMhhEI4tTqgjMFl/P+ZwbCeWSNpWVS8CQHq2W3
+s8BY24ZP9Eh8JkIIuxgV5N5XsZQuzcmgG9qKOHD/tjboA6wzqWtsQrgp5TiKptJgwaEhx4q2OaW3
+5G4UtH92vltPN9f0ZJrx9dDs9GQQKdXvtetfEJ5a/xV/3Ecd5sP7lfeVyxcAAAD//wMAUEsBAi0A
+FAAGAAgAAAAhAASrOV4AAQAA5gEAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54
+bWxQSwECLQAUAAYACAAAACEACMMYpNQAAACTAQAACwAAAAAAAAAAAAAAAAAxAQAAX3JlbHMvLnJl
+bHNQSwECLQAUAAYACAAAACEAMy8FnkEAAAA5AAAAEgAAAAAAAAAAAAAAAAAuAgAAZHJzL3BpY3R1
+cmV4bWwueG1sUEsBAi0AFAAGAAgAAAAhAHd6bu++AAAA2gAAAA8AAAAAAAAAAAAAAAAAnwIAAGRy
+cy9kb3ducmV2LnhtbFBLBQYAAAAABAAEAPcAAACKAwAAAAA=
+">
+   <v:imagedata src="file:///C:\Users\Foco\AppData\Local\Temp\msohtmlclip1\01\clip_image001.jpg"
+    o:title="Curva normal" croptop="8144f" cropbottom="13021f" cropright="3738f"/>
+   <v:path arrowok="t"/>
+  </v:shape><v:group id="Group_x0020_15" o:spid="_x0000_s1029" style='position:absolute;
+   left:2095;top:12382;width:54674;height:7239' coordsize="54673,7239"
+   o:gfxdata="UEsDBBQABgAIAAAAIQCi+E9TBAEAAOwBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRy07DMBBF
+90j8g+UtShxYIISadEGAHSAoHzCyJ4lFYlseN7R/z7iPDaJIXdpzz5wre7HcTKOYMZL1rpbXZSUF
+Ou2NdX0tP1dPxZ0UlMAZGL3DWm6R5LK5vFistgFJMO2olkNK4V4p0gNOQKUP6HjS+ThB4mPsVQD9
+BT2qm6q6Vdq7hC4VKe+QzaLFDtZjEo8bvt43iTiSFA/7YHbVEkIYrYbETdXszC9LcTCUTO4yNNhA
+V1xDqj8NeXJacOBe+WmiNSjeIKYXmLiGMpFUH/060AABOVj+vyp3najwXWc1lm2k5wx/ZPhY75TG
++G8XcT5X0DL2jvNxu9r9VfMDAAD//wMAUEsDBBQABgAIAAAAIQBsBtX+2AAAAJkBAAALAAAAX3Jl
+bHMvLnJlbHOkkMFKAzEQhu+C7xDm7mbbg4g025vQa63gNSSz2eAmE2biat/eWBBc6c3jzM9838/s
+9p9pVguyRMoGNl0PCrMjH3Mw8HJ6unsAJdVmb2fKaOCMAvvh9mZ3xNnWdiRTLKIaJYuBqdbyqLW4
+CZOVjgrmlozEydY2ctDFujcbUG/7/l7zbwYMK6Y6eAN88FtQp3Np5j/sFB2T0Fg7R0nTOEZ3jao9
+feQjLo1iOWA14FkuS8ala+VAX/du/ukNTO/lebIFX5tkZb9E8h01/08HvXro8AUAAP//AwBQSwME
+FAAGAAgAAAAhADMvBZ5BAAAAOQAAABUAAABkcnMvZ3JvdXBzaGFwZXhtbC54bWyysa/IzVEoSy0q
+zszPs1Uy1DNQUkjNS85PycxLt1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBL
+AwQUAAYACAAAACEA/UphgsMAAADbAAAADwAAAGRycy9kb3ducmV2LnhtbERPTWvCQBC9F/wPywi9
+1U1aUkp0DUGs9BCEakG8DdkxCWZnQ3ZN4r/vCoXe5vE+Z5VNphUD9a6xrCBeRCCIS6sbrhT8HD9f
+PkA4j6yxtUwK7uQgW8+eVphqO/I3DQdfiRDCLkUFtfddKqUrazLoFrYjDtzF9gZ9gH0ldY9jCDet
+fI2id2mw4dBQY0ebmsrr4WYU7EYc87d4OxTXy+Z+Pib7UxGTUs/zKV+C8DT5f/Gf+0uH+Qk8fgkH
+yPUvAAAA//8DAFBLAQItABQABgAIAAAAIQCi+E9TBAEAAOwBAAATAAAAAAAAAAAAAAAAAAAAAABb
+Q29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAGwG1f7YAAAAmQEAAAsAAAAAAAAAAAAA
+AAAANQEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhADMvBZ5BAAAAOQAAABUAAAAAAAAAAAAA
+AAAANgIAAGRycy9ncm91cHNoYXBleG1sLnhtbFBLAQItABQABgAIAAAAIQD9SmGCwwAAANsAAAAP
+AAAAAAAAAAAAAAAAAKoCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABAD6AAAAmgMAAAAA
+">
+   <v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+    <v:stroke joinstyle="miter"/>
+    <v:path gradientshapeok="t" o:connecttype="rect"/>
+   </v:shapetype><v:shape id="Text_x0020_Box_x0020_3" o:spid="_x0000_s1030"
+    type="#_x0000_t202" style='position:absolute;width:7239;height:2667;
+    visibility:visible;mso-wrap-style:square;v-text-anchor:top' o:gfxdata="UEsDBBQABgAIAAAAIQDw94q7/QAAAOIBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRzUrEMBDH
+74LvEOYqbaoHEWm6B6tHFV0fYEimbdg2CZlYd9/edD8u4goeZ+b/8SOpV9tpFDNFtt4puC4rEOS0
+N9b1Cj7WT8UdCE7oDI7ekYIdMayay4t6vQvEIrsdKxhSCvdSsh5oQi59IJcvnY8TpjzGXgbUG+xJ
+3lTVrdTeJXKpSEsGNHVLHX6OSTxu8/pAEmlkEA8H4dKlAEMYrcaUSeXszI+W4thQZudew4MNfJUx
+QP7asFzOFxx9L/lpojUkXjGmZ5wyhjSRJQ8YKGvKv1MWzIkL33VWU9lGfl98J6hz4cZ/uUjzf7Pb
+bHuj+ZQu9z/UfAMAAP//AwBQSwMEFAAGAAgAAAAhADHdX2HSAAAAjwEAAAsAAABfcmVscy8ucmVs
+c6SQwWrDMAyG74O9g9G9cdpDGaNOb4VeSwe7CltJTGPLWCZt376mMFhGbzvqF/o+8e/2tzCpmbJ4
+jgbWTQuKomXn42Dg63xYfYCSgtHhxJEM3Elg372/7U40YalHMvokqlKiGBhLSZ9aix0poDScKNZN
+zzlgqWMedEJ7wYH0pm23Ov9mQLdgqqMzkI9uA+p8T9X8hx28zSzcl8Zy0Nz33r6iasfXeKK5UjAP
+VAy4LM8w09zU50C/9q7/6ZURE31X/kL8TKv1x6wXNXYPAAAA//8DAFBLAwQUAAYACAAAACEAMy8F
+nkEAAAA5AAAAEAAAAGRycy9zaGFwZXhtbC54bWyysa/IzVEoSy0qzszPs1Uy1DNQUkjNS85PycxL
+t1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBLAwQUAAYACAAAACEAFcfeoMUA
+AADaAAAADwAAAGRycy9kb3ducmV2LnhtbESPQWvCQBSE7wX/w/IEb3VTpRJSVwmB0CLtwdRLb6/Z
+ZxKafZtmtyb6692C4HGYmW+Y9XY0rThR7xrLCp7mEQji0uqGKwWHz/wxBuE8ssbWMik4k4PtZvKw
+xkTbgfd0KnwlAoRdggpq77tESlfWZNDNbUccvKPtDfog+0rqHocAN61cRNFKGmw4LNTYUVZT+VP8
+GQW7LP/A/ffCxJc2e30/pt3v4etZqdl0TF9AeBr9PXxrv2kFS/i/Em6A3FwBAAD//wMAUEsBAi0A
+FAAGAAgAAAAhAPD3irv9AAAA4gEAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54
+bWxQSwECLQAUAAYACAAAACEAMd1fYdIAAACPAQAACwAAAAAAAAAAAAAAAAAuAQAAX3JlbHMvLnJl
+bHNQSwECLQAUAAYACAAAACEAMy8FnkEAAAA5AAAAEAAAAAAAAAAAAAAAAAApAgAAZHJzL3NoYXBl
+eG1sLnhtbFBLAQItABQABgAIAAAAIQAVx96gxQAAANoAAAAPAAAAAAAAAAAAAAAAAJgCAABkcnMv
+ZG93bnJldi54bWxQSwUGAAAAAAQABAD1AAAAigMAAAAA
+" filled="f" stroked="f" strokeweight=".5pt">
+    <v:textbox>
+     <![if !mso]>
+     <table cellpadding=0 cellspacing=0 width="100%">
+<tr>
+       <td><![endif]>
+       <div>
+       <p class=MsoNormal>
+Concreto</p>
+</div>
+<![if !mso]></td>
+      </tr>
+</table>
+<![endif]></v:textbox>
+   </v:shape><v:shape id="Text_x0020_Box_x0020_4" o:spid="_x0000_s1031" type="#_x0000_t202"
+    style='position:absolute;left:46958;width:7715;height:2667;visibility:visible;
+    mso-wrap-style:square;v-text-anchor:top' o:gfxdata="UEsDBBQABgAIAAAAIQDw94q7/QAAAOIBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRzUrEMBDH
+74LvEOYqbaoHEWm6B6tHFV0fYEimbdg2CZlYd9/edD8u4goeZ+b/8SOpV9tpFDNFtt4puC4rEOS0
+N9b1Cj7WT8UdCE7oDI7ekYIdMayay4t6vQvEIrsdKxhSCvdSsh5oQi59IJcvnY8TpjzGXgbUG+xJ
+3lTVrdTeJXKpSEsGNHVLHX6OSTxu8/pAEmlkEA8H4dKlAEMYrcaUSeXszI+W4thQZudew4MNfJUx
+QP7asFzOFxx9L/lpojUkXjGmZ5wyhjSRJQ8YKGvKv1MWzIkL33VWU9lGfl98J6hz4cZ/uUjzf7Pb
+bHuj+ZQu9z/UfAMAAP//AwBQSwMEFAAGAAgAAAAhADHdX2HSAAAAjwEAAAsAAABfcmVscy8ucmVs
+c6SQwWrDMAyG74O9g9G9cdpDGaNOb4VeSwe7CltJTGPLWCZt376mMFhGbzvqF/o+8e/2tzCpmbJ4
+jgbWTQuKomXn42Dg63xYfYCSgtHhxJEM3Elg372/7U40YalHMvokqlKiGBhLSZ9aix0poDScKNZN
+zzlgqWMedEJ7wYH0pm23Ov9mQLdgqqMzkI9uA+p8T9X8hx28zSzcl8Zy0Nz33r6iasfXeKK5UjAP
+VAy4LM8w09zU50C/9q7/6ZURE31X/kL8TKv1x6wXNXYPAAAA//8DAFBLAwQUAAYACAAAACEAMy8F
+nkEAAAA5AAAAEAAAAGRycy9zaGFwZXhtbC54bWyysa/IzVEoSy0qzszPs1Uy1DNQUkjNS85PycxL
+t1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBLAwQUAAYACAAAACEAmi5G1MUA
+AADaAAAADwAAAGRycy9kb3ducmV2LnhtbESPQWvCQBSE7wX/w/IEb3VTsRJSVwmB0CLtwdRLb6/Z
+ZxKafZtmtyb6692C4HGYmW+Y9XY0rThR7xrLCp7mEQji0uqGKwWHz/wxBuE8ssbWMik4k4PtZvKw
+xkTbgfd0KnwlAoRdggpq77tESlfWZNDNbUccvKPtDfog+0rqHocAN61cRNFKGmw4LNTYUVZT+VP8
+GQW7LP/A/ffCxJc2e30/pt3v4etZqdl0TF9AeBr9PXxrv2kFS/i/Em6A3FwBAAD//wMAUEsBAi0A
+FAAGAAgAAAAhAPD3irv9AAAA4gEAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54
+bWxQSwECLQAUAAYACAAAACEAMd1fYdIAAACPAQAACwAAAAAAAAAAAAAAAAAuAQAAX3JlbHMvLnJl
+bHNQSwECLQAUAAYACAAAACEAMy8FnkEAAAA5AAAAEAAAAAAAAAAAAAAAAAApAgAAZHJzL3NoYXBl
+eG1sLnhtbFBLAQItABQABgAIAAAAIQCaLkbUxQAAANoAAAAPAAAAAAAAAAAAAAAAAJgCAABkcnMv
+ZG93bnJldi54bWxQSwUGAAAAAAQABAD1AAAAigMAAAAA
+" filled="f" stroked="f" strokeweight=".5pt">
+    <v:textbox>
+     <![if !mso]>
+     <table cellpadding=0 cellspacing=0 width="100%">
+<tr>
+       <td><![endif]>
+       <div>
+       <p class=MsoNormal>
+Abstracto<o:p></o:p></p>
+</div>
+<![if !mso]></td>
+      </tr>
+</table>
+<![endif]></v:textbox>
+   </v:shape><v:shape id="Text_x0020_Box_x0020_5" o:spid="_x0000_s1032" type="#_x0000_t202"
+    style='position:absolute;left:8477;top:4191;width:2953;height:2667;
+    visibility:visible;mso-wrap-style:square;v-text-anchor:top' o:gfxdata="UEsDBBQABgAIAAAAIQDw94q7/QAAAOIBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRzUrEMBDH
+74LvEOYqbaoHEWm6B6tHFV0fYEimbdg2CZlYd9/edD8u4goeZ+b/8SOpV9tpFDNFtt4puC4rEOS0
+N9b1Cj7WT8UdCE7oDI7ekYIdMayay4t6vQvEIrsdKxhSCvdSsh5oQi59IJcvnY8TpjzGXgbUG+xJ
+3lTVrdTeJXKpSEsGNHVLHX6OSTxu8/pAEmlkEA8H4dKlAEMYrcaUSeXszI+W4thQZudew4MNfJUx
+QP7asFzOFxx9L/lpojUkXjGmZ5wyhjSRJQ8YKGvKv1MWzIkL33VWU9lGfl98J6hz4cZ/uUjzf7Pb
+bHuj+ZQu9z/UfAMAAP//AwBQSwMEFAAGAAgAAAAhADHdX2HSAAAAjwEAAAsAAABfcmVscy8ucmVs
+c6SQwWrDMAyG74O9g9G9cdpDGaNOb4VeSwe7CltJTGPLWCZt376mMFhGbzvqF/o+8e/2tzCpmbJ4
+jgbWTQuKomXn42Dg63xYfYCSgtHhxJEM3Elg372/7U40YalHMvokqlKiGBhLSZ9aix0poDScKNZN
+zzlgqWMedEJ7wYH0pm23Ov9mQLdgqqMzkI9uA+p8T9X8hx28zSzcl8Zy0Nz33r6iasfXeKK5UjAP
+VAy4LM8w09zU50C/9q7/6ZURE31X/kL8TKv1x6wXNXYPAAAA//8DAFBLAwQUAAYACAAAACEAMy8F
+nkEAAAA5AAAAEAAAAGRycy9zaGFwZXhtbC54bWyysa/IzVEoSy0qzszPs1Uy1DNQUkjNS85PycxL
+t1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBLAwQUAAYACAAAACEA9WLjT8QA
+AADaAAAADwAAAGRycy9kb3ducmV2LnhtbESPT4vCMBTE7wt+h/AEb2u6giJd0yIFUcQ9+Ofi7W3z
+bMs2L7WJWvfTG0HwOMzMb5hZ2plaXKl1lWUFX8MIBHFudcWFgsN+8TkF4TyyxtoyKbiTgzTpfcww
+1vbGW7rufCEChF2MCkrvm1hKl5dk0A1tQxy8k20N+iDbQuoWbwFuajmKook0WHFYKLGhrKT8b3cx
+CtbZ4ge3vyMz/a+z5eY0b86H41ipQb+bf4Pw1Pl3+NVeaQVjeF4JN0AmDwAAAP//AwBQSwECLQAU
+AAYACAAAACEA8PeKu/0AAADiAQAAEwAAAAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnht
+bFBLAQItABQABgAIAAAAIQAx3V9h0gAAAI8BAAALAAAAAAAAAAAAAAAAAC4BAABfcmVscy8ucmVs
+c1BLAQItABQABgAIAAAAIQAzLwWeQQAAADkAAAAQAAAAAAAAAAAAAAAAACkCAABkcnMvc2hhcGV4
+bWwueG1sUEsBAi0AFAAGAAgAAAAhAPVi40/EAAAA2gAAAA8AAAAAAAAAAAAAAAAAmAIAAGRycy9k
+b3ducmV2LnhtbFBLBQYAAAAABAAEAPUAAACJAwAAAAA=
+" filled="f" stroked="f" strokeweight=".5pt">
+    <v:textbox>
+     <![if !mso]>
+     <table cellpadding=0 cellspacing=0 width="100%">
+<tr>
+       <td><![endif]>
+       <div>
+       <p class=MsoNormal>
+A<o:p></o:p></p>
+</div>
+<![if !mso]></td>
+      </tr>
+</table>
+<![endif]></v:textbox>
+   </v:shape><v:shape id="Text_x0020_Box_x0020_6" o:spid="_x0000_s1033" type="#_x0000_t202"
+    style='position:absolute;left:22860;top:4286;width:2952;height:2667;
+    visibility:visible;mso-wrap-style:square;v-text-anchor:top' o:gfxdata="UEsDBBQABgAIAAAAIQDw94q7/QAAAOIBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRzUrEMBDH
+74LvEOYqbaoHEWm6B6tHFV0fYEimbdg2CZlYd9/edD8u4goeZ+b/8SOpV9tpFDNFtt4puC4rEOS0
+N9b1Cj7WT8UdCE7oDI7ekYIdMayay4t6vQvEIrsdKxhSCvdSsh5oQi59IJcvnY8TpjzGXgbUG+xJ
+3lTVrdTeJXKpSEsGNHVLHX6OSTxu8/pAEmlkEA8H4dKlAEMYrcaUSeXszI+W4thQZudew4MNfJUx
+QP7asFzOFxx9L/lpojUkXjGmZ5wyhjSRJQ8YKGvKv1MWzIkL33VWU9lGfl98J6hz4cZ/uUjzf7Pb
+bHuj+ZQu9z/UfAMAAP//AwBQSwMEFAAGAAgAAAAhADHdX2HSAAAAjwEAAAsAAABfcmVscy8ucmVs
+c6SQwWrDMAyG74O9g9G9cdpDGaNOb4VeSwe7CltJTGPLWCZt376mMFhGbzvqF/o+8e/2tzCpmbJ4
+jgbWTQuKomXn42Dg63xYfYCSgtHhxJEM3Elg372/7U40YalHMvokqlKiGBhLSZ9aix0poDScKNZN
+zzlgqWMedEJ7wYH0pm23Ov9mQLdgqqMzkI9uA+p8T9X8hx28zSzcl8Zy0Nz33r6iasfXeKK5UjAP
+VAy4LM8w09zU50C/9q7/6ZURE31X/kL8TKv1x6wXNXYPAAAA//8DAFBLAwQUAAYACAAAACEAMy8F
+nkEAAAA5AAAAEAAAAGRycy9zaGFwZXhtbC54bWyysa/IzVEoSy0qzszPs1Uy1DNQUkjNS85PycxL
+t1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBLAwQUAAYACAAAACEABbB9OMUA
+AADaAAAADwAAAGRycy9kb3ducmV2LnhtbESPT2vCQBTE70K/w/IK3symQoOkWUUCYin2oM2lt9fs
+yx+afRuzW5P203cFweMwM79hss1kOnGhwbWWFTxFMQji0uqWawXFx26xAuE8ssbOMin4JQeb9cMs
+w1TbkY90OflaBAi7FBU03veplK5syKCLbE8cvMoOBn2QQy31gGOAm04u4ziRBlsOCw32lDdUfp9+
+jIK3fPeOx6+lWf11+f5Qbftz8fms1Pxx2r6A8DT5e/jWftUKErheCTdArv8BAAD//wMAUEsBAi0A
+FAAGAAgAAAAhAPD3irv9AAAA4gEAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54
+bWxQSwECLQAUAAYACAAAACEAMd1fYdIAAACPAQAACwAAAAAAAAAAAAAAAAAuAQAAX3JlbHMvLnJl
+bHNQSwECLQAUAAYACAAAACEAMy8FnkEAAAA5AAAAEAAAAAAAAAAAAAAAAAApAgAAZHJzL3NoYXBl
+eG1sLnhtbFBLAQItABQABgAIAAAAIQAFsH04xQAAANoAAAAPAAAAAAAAAAAAAAAAAJgCAABkcnMv
+ZG93bnJldi54bWxQSwUGAAAAAAQABAD1AAAAigMAAAAA
+" filled="f" stroked="f" strokeweight=".5pt">
+    <v:textbox>
+     <![if !mso]>
+     <table cellpadding=0 cellspacing=0 width="100%">
+<tr>
+       <td><![endif]>
+       <div>
+       <p class=MsoNormal>
+B<o:p></o:p></p>
+</div>
+<![if !mso]></td>
+      </tr>
+</table>
+<![endif]></v:textbox>
+   </v:shape><v:shape id="Text_x0020_Box_x0020_7" o:spid="_x0000_s1034" type="#_x0000_t202"
+    style='position:absolute;left:27432;top:4286;width:2952;height:2667;
+    visibility:visible;mso-wrap-style:square;v-text-anchor:top' o:gfxdata="UEsDBBQABgAIAAAAIQDw94q7/QAAAOIBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRzUrEMBDH
+74LvEOYqbaoHEWm6B6tHFV0fYEimbdg2CZlYd9/edD8u4goeZ+b/8SOpV9tpFDNFtt4puC4rEOS0
+N9b1Cj7WT8UdCE7oDI7ekYIdMayay4t6vQvEIrsdKxhSCvdSsh5oQi59IJcvnY8TpjzGXgbUG+xJ
+3lTVrdTeJXKpSEsGNHVLHX6OSTxu8/pAEmlkEA8H4dKlAEMYrcaUSeXszI+W4thQZudew4MNfJUx
+QP7asFzOFxx9L/lpojUkXjGmZ5wyhjSRJQ8YKGvKv1MWzIkL33VWU9lGfl98J6hz4cZ/uUjzf7Pb
+bHuj+ZQu9z/UfAMAAP//AwBQSwMEFAAGAAgAAAAhADHdX2HSAAAAjwEAAAsAAABfcmVscy8ucmVs
+c6SQwWrDMAyG74O9g9G9cdpDGaNOb4VeSwe7CltJTGPLWCZt376mMFhGbzvqF/o+8e/2tzCpmbJ4
+jgbWTQuKomXn42Dg63xYfYCSgtHhxJEM3Elg372/7U40YalHMvokqlKiGBhLSZ9aix0poDScKNZN
+zzlgqWMedEJ7wYH0pm23Ov9mQLdgqqMzkI9uA+p8T9X8hx28zSzcl8Zy0Nz33r6iasfXeKK5UjAP
+VAy4LM8w09zU50C/9q7/6ZURE31X/kL8TKv1x6wXNXYPAAAA//8DAFBLAwQUAAYACAAAACEAMy8F
+nkEAAAA5AAAAEAAAAGRycy9zaGFwZXhtbC54bWyysa/IzVEoSy0qzszPs1Uy1DNQUkjNS85PycxL
+t1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBLAwQUAAYACAAAACEAavzYo8UA
+AADaAAAADwAAAGRycy9kb3ducmV2LnhtbESPQWvCQBSE7wX/w/IEb3VTwRpSVwmB0CLtwdRLb6/Z
+ZxKafZtmtyb6692C4HGYmW+Y9XY0rThR7xrLCp7mEQji0uqGKwWHz/wxBuE8ssbWMik4k4PtZvKw
+xkTbgfd0KnwlAoRdggpq77tESlfWZNDNbUccvKPtDfog+0rqHocAN61cRNGzNNhwWKixo6ym8qf4
+Mwp2Wf6B+++FiS9t9vp+TLvfw9dSqdl0TF9AeBr9PXxrv2kFK/i/Em6A3FwBAAD//wMAUEsBAi0A
+FAAGAAgAAAAhAPD3irv9AAAA4gEAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54
+bWxQSwECLQAUAAYACAAAACEAMd1fYdIAAACPAQAACwAAAAAAAAAAAAAAAAAuAQAAX3JlbHMvLnJl
+bHNQSwECLQAUAAYACAAAACEAMy8FnkEAAAA5AAAAEAAAAAAAAAAAAAAAAAApAgAAZHJzL3NoYXBl
+eG1sLnhtbFBLAQItABQABgAIAAAAIQBq/NijxQAAANoAAAAPAAAAAAAAAAAAAAAAAJgCAABkcnMv
+ZG93bnJldi54bWxQSwUGAAAAAAQABAD1AAAAigMAAAAA
+" filled="f" stroked="f" strokeweight=".5pt">
+    <v:textbox>
+     <![if !mso]>
+     <table cellpadding=0 cellspacing=0 width="100%">
+<tr>
+       <td><![endif]>
+       <div>
+       <p class=MsoNormal>
+C<o:p></o:p></p>
+</div>
+<![if !mso]></td>
+      </tr>
+</table>
+<![endif]></v:textbox>
+   </v:shape><v:line id="Straight_x0020_Connector_x0020_9" o:spid="_x0000_s1035"
+    style='position:absolute;visibility:visible;mso-wrap-style:square' from="9810,3143"
+    to="9810,4667" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQD+JeulAAEAAOoBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRzU7EIBDH
+7ya+A+FqWqoHY0zpHqwe1Zj1AQhMW2I7EAbr7ts73e5ejGviEeb/8RuoN7tpFDMk8gG1vC4rKQBt
+cB57Ld+3T8WdFJQNOjMGBC33QHLTXF7U230EEuxG0nLIOd4rRXaAyVAZIiBPupAmk/mYehWN/TA9
+qJuqulU2YAbMRV4yZFO30JnPMYvHHV+vJAlGkuJhFS5dWpoYR29NZlI1o/vRUhwbSnYeNDT4SFeM
+IdWvDcvkfMHR98JPk7wD8WpSfjYTYyiXaNkAweaQWFf+nbSgTlSErvMWyjYRL7V6T3DnSlz4wgTz
+f/Nbtr3BfEpXh59qvgEAAP//AwBQSwMEFAAGAAgAAAAhAJYFM1jUAAAAlwEAAAsAAABfcmVscy8u
+cmVsc6SQPWsDMQyG90L/g9He8yVDKSW+bIWsIYWuxtZ9kLNkJHNN/n1MoaVXsnWUXvQ8L9rtL2k2
+C4pOTA42TQsGKXCcaHDwfnp7egGjxVP0MxM6uKLCvnt82B1x9qUe6ThlNZVC6mAsJb9aq2HE5LXh
+jFSTniX5UkcZbPbh7Ae027Z9tvKbAd2KaQ7RgRziFszpmqv5DztNQVi5L03gZLnvp3CPaiN/0hGX
+SvEyYHEQRb+WgktTy4G979380xuYCENh+aiOlfwnqfbvBnb1zu4GAAD//wMAUEsDBBQABgAIAAAA
+IQAzLwWeQQAAADkAAAAUAAAAZHJzL2Nvbm5lY3RvcnhtbC54bWyysa/IzVEoSy0qzszPs1Uy1DNQ
+UkjNS85PycxLt1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBLAwQUAAYACAAA
+ACEA3G1Ug8MAAADaAAAADwAAAGRycy9kb3ducmV2LnhtbESPUWvCMBSF34X9h3AHe5GZquC2ahSZ
+FGRvtv6AS3Nt6pqbrMm0/ffLYLDHwznnO5zNbrCduFEfWscK5rMMBHHtdMuNgnNVPL+CCBFZY+eY
+FIwUYLd9mGww1+7OJ7qVsREJwiFHBSZGn0sZakMWw8x54uRdXG8xJtk3Uvd4T3DbyUWWraTFltOC
+QU/vhurP8tsqeGFvfVaYj+llPFyXX4vKNeeDUk+Pw34NItIQ/8N/7aNW8Aa/V9INkNsfAAAA//8D
+AFBLAQItABQABgAIAAAAIQD+JeulAAEAAOoBAAATAAAAAAAAAAAAAAAAAAAAAABbQ29udGVudF9U
+eXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAJYFM1jUAAAAlwEAAAsAAAAAAAAAAAAAAAAAMQEAAF9y
+ZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhADMvBZ5BAAAAOQAAABQAAAAAAAAAAAAAAAAALgIAAGRy
+cy9jb25uZWN0b3J4bWwueG1sUEsBAi0AFAAGAAgAAAAhANxtVIPDAAAA2gAAAA8AAAAAAAAAAAAA
+AAAAoQIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAABAAEAPkAAACRAwAAAAA=
+" strokecolor="black [3200]" strokeweight="3pt">
+    <v:stroke joinstyle="miter"/>
+   </v:line><v:line id="Straight_x0020_Connector_x0020_10" o:spid="_x0000_s1036"
+    style='position:absolute;visibility:visible;mso-wrap-style:square' from="24098,3143"
+    to="24098,4667" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQD+JeulAAEAAOoBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRzU7EIBDH
+7ya+A+FqWqoHY0zpHqwe1Zj1AQhMW2I7EAbr7ts73e5ejGviEeb/8RuoN7tpFDMk8gG1vC4rKQBt
+cB57Ld+3T8WdFJQNOjMGBC33QHLTXF7U230EEuxG0nLIOd4rRXaAyVAZIiBPupAmk/mYehWN/TA9
+qJuqulU2YAbMRV4yZFO30JnPMYvHHV+vJAlGkuJhFS5dWpoYR29NZlI1o/vRUhwbSnYeNDT4SFeM
+IdWvDcvkfMHR98JPk7wD8WpSfjYTYyiXaNkAweaQWFf+nbSgTlSErvMWyjYRL7V6T3DnSlz4wgTz
+f/Nbtr3BfEpXh59qvgEAAP//AwBQSwMEFAAGAAgAAAAhAJYFM1jUAAAAlwEAAAsAAABfcmVscy8u
+cmVsc6SQPWsDMQyG90L/g9He8yVDKSW+bIWsIYWuxtZ9kLNkJHNN/n1MoaVXsnWUXvQ8L9rtL2k2
+C4pOTA42TQsGKXCcaHDwfnp7egGjxVP0MxM6uKLCvnt82B1x9qUe6ThlNZVC6mAsJb9aq2HE5LXh
+jFSTniX5UkcZbPbh7Ae027Z9tvKbAd2KaQ7RgRziFszpmqv5DztNQVi5L03gZLnvp3CPaiN/0hGX
+SvEyYHEQRb+WgktTy4G979380xuYCENh+aiOlfwnqfbvBnb1zu4GAAD//wMAUEsDBBQABgAIAAAA
+IQAzLwWeQQAAADkAAAAUAAAAZHJzL2Nvbm5lY3RvcnhtbC54bWyysa/IzVEoSy0qzszPs1Uy1DNQ
+UkjNS85PycxLt1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBLAwQUAAYACAAA
+ACEATIHeV8QAAADbAAAADwAAAGRycy9kb3ducmV2LnhtbESPQW/CMAyF70j8h8hIu6CRwqRt6hoQ
+okKadhvwA6zGNN0aJzQZlH8/HybtZus9v/e52oy+V1caUhfYwHJRgCJugu24NXA67h9fQaWMbLEP
+TAbulGCznk4qLG248SddD7lVEsKpRAMu51hqnRpHHtMiRGLRzmHwmGUdWm0HvEm47/WqKJ61x46l
+wWGknaPm+/DjDbxw9LHYu4/5+V5/PV1Wx9CeamMeZuP2DVSmMf+b/67freALvfwiA+j1LwAAAP//
+AwBQSwECLQAUAAYACAAAACEA/iXrpQABAADqAQAAEwAAAAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRf
+VHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQCWBTNY1AAAAJcBAAALAAAAAAAAAAAAAAAAADEBAABf
+cmVscy8ucmVsc1BLAQItABQABgAIAAAAIQAzLwWeQQAAADkAAAAUAAAAAAAAAAAAAAAAAC4CAABk
+cnMvY29ubmVjdG9yeG1sLnhtbFBLAQItABQABgAIAAAAIQBMgd5XxAAAANsAAAAPAAAAAAAAAAAA
+AAAAAKECAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABAD5AAAAkgMAAAAA
+" strokecolor="black [3200]" strokeweight="3pt">
+    <v:stroke joinstyle="miter"/>
+   </v:line><v:line id="Straight_x0020_Connector_x0020_11" o:spid="_x0000_s1037"
+    style='position:absolute;visibility:visible;mso-wrap-style:square' from="28670,3238"
+    to="28670,4762" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQD+JeulAAEAAOoBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRzU7EIBDH
+7ya+A+FqWqoHY0zpHqwe1Zj1AQhMW2I7EAbr7ts73e5ejGviEeb/8RuoN7tpFDMk8gG1vC4rKQBt
+cB57Ld+3T8WdFJQNOjMGBC33QHLTXF7U230EEuxG0nLIOd4rRXaAyVAZIiBPupAmk/mYehWN/TA9
+qJuqulU2YAbMRV4yZFO30JnPMYvHHV+vJAlGkuJhFS5dWpoYR29NZlI1o/vRUhwbSnYeNDT4SFeM
+IdWvDcvkfMHR98JPk7wD8WpSfjYTYyiXaNkAweaQWFf+nbSgTlSErvMWyjYRL7V6T3DnSlz4wgTz
+f/Nbtr3BfEpXh59qvgEAAP//AwBQSwMEFAAGAAgAAAAhAJYFM1jUAAAAlwEAAAsAAABfcmVscy8u
+cmVsc6SQPWsDMQyG90L/g9He8yVDKSW+bIWsIYWuxtZ9kLNkJHNN/n1MoaVXsnWUXvQ8L9rtL2k2
+C4pOTA42TQsGKXCcaHDwfnp7egGjxVP0MxM6uKLCvnt82B1x9qUe6ThlNZVC6mAsJb9aq2HE5LXh
+jFSTniX5UkcZbPbh7Ae027Z9tvKbAd2KaQ7RgRziFszpmqv5DztNQVi5L03gZLnvp3CPaiN/0hGX
+SvEyYHEQRb+WgktTy4G979380xuYCENh+aiOlfwnqfbvBnb1zu4GAAD//wMAUEsDBBQABgAIAAAA
+IQAzLwWeQQAAADkAAAAUAAAAZHJzL2Nvbm5lY3RvcnhtbC54bWyysa/IzVEoSy0qzszPs1Uy1DNQ
+UkjNS85PycxLt1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBLAwQUAAYACAAA
+ACEAI817zMEAAADbAAAADwAAAGRycy9kb3ducmV2LnhtbERP3WrCMBS+F/YO4Qx2IzOtA5XOWMak
+MHY36wMcmmNTbU6yJrP17ZfBwLvz8f2ebTnZXlxpCJ1jBfkiA0HcON1xq+BYV88bECEia+wdk4Ib
+BSh3D7MtFtqN/EXXQ2xFCuFQoAIToy+kDI0hi2HhPHHiTm6wGBMcWqkHHFO47eUyy1bSYsepwaCn
+d0PN5fBjFazZW59V5nN+uu3PL9/L2rXHvVJPj9PbK4hIU7yL/90fOs3P4e+XdIDc/QIAAP//AwBQ
+SwECLQAUAAYACAAAACEA/iXrpQABAADqAQAAEwAAAAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlw
+ZXNdLnhtbFBLAQItABQABgAIAAAAIQCWBTNY1AAAAJcBAAALAAAAAAAAAAAAAAAAADEBAABfcmVs
+cy8ucmVsc1BLAQItABQABgAIAAAAIQAzLwWeQQAAADkAAAAUAAAAAAAAAAAAAAAAAC4CAABkcnMv
+Y29ubmVjdG9yeG1sLnhtbFBLAQItABQABgAIAAAAIQAjzXvMwQAAANsAAAAPAAAAAAAAAAAAAAAA
+AKECAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABAD5AAAAjwMAAAAA
+" strokecolor="black [3200]" strokeweight="3pt">
+    <v:stroke joinstyle="miter"/>
+   </v:line><v:line id="Straight_x0020_Connector_x0020_12" o:spid="_x0000_s1038"
+    style='position:absolute;visibility:visible;mso-wrap-style:square' from="44291,3429"
+    to="44291,4953" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQD+JeulAAEAAOoBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRzU7EIBDH
+7ya+A+FqWqoHY0zpHqwe1Zj1AQhMW2I7EAbr7ts73e5ejGviEeb/8RuoN7tpFDMk8gG1vC4rKQBt
+cB57Ld+3T8WdFJQNOjMGBC33QHLTXF7U230EEuxG0nLIOd4rRXaAyVAZIiBPupAmk/mYehWN/TA9
+qJuqulU2YAbMRV4yZFO30JnPMYvHHV+vJAlGkuJhFS5dWpoYR29NZlI1o/vRUhwbSnYeNDT4SFeM
+IdWvDcvkfMHR98JPk7wD8WpSfjYTYyiXaNkAweaQWFf+nbSgTlSErvMWyjYRL7V6T3DnSlz4wgTz
+f/Nbtr3BfEpXh59qvgEAAP//AwBQSwMEFAAGAAgAAAAhAJYFM1jUAAAAlwEAAAsAAABfcmVscy8u
+cmVsc6SQPWsDMQyG90L/g9He8yVDKSW+bIWsIYWuxtZ9kLNkJHNN/n1MoaVXsnWUXvQ8L9rtL2k2
+C4pOTA42TQsGKXCcaHDwfnp7egGjxVP0MxM6uKLCvnt82B1x9qUe6ThlNZVC6mAsJb9aq2HE5LXh
+jFSTniX5UkcZbPbh7Ae027Z9tvKbAd2KaQ7RgRziFszpmqv5DztNQVi5L03gZLnvp3CPaiN/0hGX
+SvEyYHEQRb+WgktTy4G979380xuYCENh+aiOlfwnqfbvBnb1zu4GAAD//wMAUEsDBBQABgAIAAAA
+IQAzLwWeQQAAADkAAAAUAAAAZHJzL2Nvbm5lY3RvcnhtbC54bWyysa/IzVEoSy0qzszPs1Uy1DNQ
+UkjNS85PycxLt1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBLAwQUAAYACAAA
+ACEA0x/lu8EAAADbAAAADwAAAGRycy9kb3ducmV2LnhtbERP3WrCMBS+H/gO4Qy8GZqugymdsYyV
+gng39QEOzbHp1pzEJtP27c1gsLvz8f2eTTnaXlxpCJ1jBc/LDARx43THrYLTsV6sQYSIrLF3TAom
+ClBuZw8bLLS78SddD7EVKYRDgQpMjL6QMjSGLIal88SJO7vBYkxwaKUe8JbCbS/zLHuVFjtODQY9
+fRhqvg8/VsGKvfVZbfZP56n6ernkR9eeKqXmj+P7G4hIY/wX/7l3Os3P4feXdIDc3gEAAP//AwBQ
+SwECLQAUAAYACAAAACEA/iXrpQABAADqAQAAEwAAAAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlw
+ZXNdLnhtbFBLAQItABQABgAIAAAAIQCWBTNY1AAAAJcBAAALAAAAAAAAAAAAAAAAADEBAABfcmVs
+cy8ucmVsc1BLAQItABQABgAIAAAAIQAzLwWeQQAAADkAAAAUAAAAAAAAAAAAAAAAAC4CAABkcnMv
+Y29ubmVjdG9yeG1sLnhtbFBLAQItABQABgAIAAAAIQDTH+W7wQAAANsAAAAPAAAAAAAAAAAAAAAA
+AKECAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABAD5AAAAjwMAAAAA
+" strokecolor="black [3200]" strokeweight="3pt">
+    <v:stroke joinstyle="miter"/>
+   </v:line><v:shape id="Text_x0020_Box_x0020_8" o:spid="_x0000_s1039" type="#_x0000_t202"
+    style='position:absolute;left:43148;top:4572;width:2953;height:2667;
+    visibility:visible;mso-wrap-style:square;v-text-anchor:top' o:gfxdata="UEsDBBQABgAIAAAAIQDw94q7/QAAAOIBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRzUrEMBDH
+74LvEOYqbaoHEWm6B6tHFV0fYEimbdg2CZlYd9/edD8u4goeZ+b/8SOpV9tpFDNFtt4puC4rEOS0
+N9b1Cj7WT8UdCE7oDI7ekYIdMayay4t6vQvEIrsdKxhSCvdSsh5oQi59IJcvnY8TpjzGXgbUG+xJ
+3lTVrdTeJXKpSEsGNHVLHX6OSTxu8/pAEmlkEA8H4dKlAEMYrcaUSeXszI+W4thQZudew4MNfJUx
+QP7asFzOFxx9L/lpojUkXjGmZ5wyhjSRJQ8YKGvKv1MWzIkL33VWU9lGfl98J6hz4cZ/uUjzf7Pb
+bHuj+ZQu9z/UfAMAAP//AwBQSwMEFAAGAAgAAAAhADHdX2HSAAAAjwEAAAsAAABfcmVscy8ucmVs
+c6SQwWrDMAyG74O9g9G9cdpDGaNOb4VeSwe7CltJTGPLWCZt376mMFhGbzvqF/o+8e/2tzCpmbJ4
+jgbWTQuKomXn42Dg63xYfYCSgtHhxJEM3Elg372/7U40YalHMvokqlKiGBhLSZ9aix0poDScKNZN
+zzlgqWMedEJ7wYH0pm23Ov9mQLdgqqMzkI9uA+p8T9X8hx28zSzcl8Zy0Nz33r6iasfXeKK5UjAP
+VAy4LM8w09zU50C/9q7/6ZURE31X/kL8TKv1x6wXNXYPAAAA//8DAFBLAwQUAAYACAAAACEAMy8F
+nkEAAAA5AAAAEAAAAGRycy9zaGFwZXhtbC54bWyysa/IzVEoSy0qzszPs1Uy1DNQUkjNS85PycxL
+t1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBLAwQUAAYACAAAACEAG2NM0cEA
+AADaAAAADwAAAGRycy9kb3ducmV2LnhtbERPTWvCQBC9C/6HZYTedGOgRVLXEAJBkXpQc+ltmh2T
+0OxszK6a+uu7h0KPj/e9TkfTiTsNrrWsYLmIQBBXVrdcKyjPxXwFwnlkjZ1lUvBDDtLNdLLGRNsH
+H+l+8rUIIewSVNB43ydSuqohg25he+LAXexg0Ac41FIP+AjhppNxFL1Jgy2HhgZ7yhuqvk83o2Cf
+Fwc8fsVm9ezy7ccl66/l56tSL7MxewfhafT/4j/3TisIW8OVcAPk5hcAAP//AwBQSwECLQAUAAYA
+CAAAACEA8PeKu/0AAADiAQAAEwAAAAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBL
+AQItABQABgAIAAAAIQAx3V9h0gAAAI8BAAALAAAAAAAAAAAAAAAAAC4BAABfcmVscy8ucmVsc1BL
+AQItABQABgAIAAAAIQAzLwWeQQAAADkAAAAQAAAAAAAAAAAAAAAAACkCAABkcnMvc2hhcGV4bWwu
+eG1sUEsBAi0AFAAGAAgAAAAhABtjTNHBAAAA2gAAAA8AAAAAAAAAAAAAAAAAmAIAAGRycy9kb3du
+cmV2LnhtbFBLBQYAAAAABAAEAPUAAACGAwAAAAA=
+" filled="f" stroked="f" strokeweight=".5pt">
+    <v:textbox>
+     <![if !mso]>
+     <table cellpadding=0 cellspacing=0 width="100%">
+<tr>
+       <td><![endif]>
+       <div>
+       <p class=MsoNormal>
+D<o:p></o:p></p>
+</div>
+<![if !mso]></td>
+      </tr>
+</table>
+<![endif]></v:textbox>
+   </v:shape></v:group></v:group><v:shape id="Text_x0020_Box_x0020_41" o:spid="_x0000_s1040"
+  type="#_x0000_t202" style='position:absolute;left:2476;top:1143;width:7715;
+  height:2667;visibility:visible;mso-wrap-style:square;v-text-anchor:top'
+  o:gfxdata="UEsDBBQABgAIAAAAIQDw94q7/QAAAOIBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRzUrEMBDH
+74LvEOYqbaoHEWm6B6tHFV0fYEimbdg2CZlYd9/edD8u4goeZ+b/8SOpV9tpFDNFtt4puC4rEOS0
+N9b1Cj7WT8UdCE7oDI7ekYIdMayay4t6vQvEIrsdKxhSCvdSsh5oQi59IJcvnY8TpjzGXgbUG+xJ
+3lTVrdTeJXKpSEsGNHVLHX6OSTxu8/pAEmlkEA8H4dKlAEMYrcaUSeXszI+W4thQZudew4MNfJUx
+QP7asFzOFxx9L/lpojUkXjGmZ5wyhjSRJQ8YKGvKv1MWzIkL33VWU9lGfl98J6hz4cZ/uUjzf7Pb
+bHuj+ZQu9z/UfAMAAP//AwBQSwMEFAAGAAgAAAAhADHdX2HSAAAAjwEAAAsAAABfcmVscy8ucmVs
+c6SQwWrDMAyG74O9g9G9cdpDGaNOb4VeSwe7CltJTGPLWCZt376mMFhGbzvqF/o+8e/2tzCpmbJ4
+jgbWTQuKomXn42Dg63xYfYCSgtHhxJEM3Elg372/7U40YalHMvokqlKiGBhLSZ9aix0poDScKNZN
+zzlgqWMedEJ7wYH0pm23Ov9mQLdgqqMzkI9uA+p8T9X8hx28zSzcl8Zy0Nz33r6iasfXeKK5UjAP
+VAy4LM8w09zU50C/9q7/6ZURE31X/kL8TKv1x6wXNXYPAAAA//8DAFBLAwQUAAYACAAAACEAMy8F
+nkEAAAA5AAAAEAAAAGRycy9zaGFwZXhtbC54bWyysa/IzVEoSy0qzszPs1Uy1DNQUkjNS85PycxL
+t1UKDXHTtVBSKC5JzEtJzMnPS7VVqkwtVrK34+UCAAAA//8DAFBLAwQUAAYACAAAACEAqOiQCcUA
+AADbAAAADwAAAGRycy9kb3ducmV2LnhtbESPQWvCQBSE74L/YXlCb7qJ1CLRVUJAWooetF68PbPP
+JJh9m2a3Sdpf3xUKPQ4z8w2z3g6mFh21rrKsIJ5FIIhzqysuFJw/dtMlCOeRNdaWScE3OdhuxqM1
+Jtr2fKTu5AsRIOwSVFB63yRSurwkg25mG+Lg3Wxr0AfZFlK32Ae4qeU8il6kwYrDQokNZSXl99OX
+UfCe7Q54vM7N8qfOXve3tPk8XxZKPU2GdAXC0+D/w3/tN63gOYbHl/AD5OYXAAD//wMAUEsBAi0A
+FAAGAAgAAAAhAPD3irv9AAAA4gEAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54
+bWxQSwECLQAUAAYACAAAACEAMd1fYdIAAACPAQAACwAAAAAAAAAAAAAAAAAuAQAAX3JlbHMvLnJl
+bHNQSwECLQAUAAYACAAAACEAMy8FnkEAAAA5AAAAEAAAAAAAAAAAAAAAAAApAgAAZHJzL3NoYXBl
+eG1sLnhtbFBLAQItABQABgAIAAAAIQCo6JAJxQAAANsAAAAPAAAAAAAAAAAAAAAAAJgCAABkcnMv
+ZG93bnJldi54bWxQSwUGAAAAAAQABAD1AAAAigMAAAAA
+" filled="f" stroked="f" strokeweight=".5pt">
+  <v:textbox>
+   <![if !mso]>
+   <table cellpadding=0 cellspacing=0 width="100%">
+<tr>
+     <td><![endif]>
+     <div>
+     <p class=MsoNormal>
+<b style='mso-bidi-font-weight:normal'>Figura 1. <o:p></o:p></b></p>
+</div>
+<![if !mso]></td>
+    </tr>
+</table>
+<![endif]></v:textbox>
+ </v:shape></v:group><![endif]--><!--[if !vml]-->
+
+
+
+<!--[endif]--><br />
+<table align="left" cellpadding="0" cellspacing="0">
+ <tbody>
+<tr>
+  <td height="97" width="106"></td>
+ </tr>
+<tr>
+  <td></td>
+  <td><img src="file:///C:/Users/Foco/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png" v:shapes="Group_x0020_42 Group_x0020_40 Picture_x0020_1 Group_x0020_15 Text_x0020_Box_x0020_3 Text_x0020_Box_x0020_4 Text_x0020_Box_x0020_5 Text_x0020_Box_x0020_6 Text_x0020_Box_x0020_7 Straight_x0020_Connector_x0020_9 Straight_x0020_Connector_x0020_10 Straight_x0020_Connector_x0020_11 Straight_x0020_Connector_x0020_12 Text_x0020_Box_x0020_8 Text_x0020_Box_x0020_41" /></td>
+ </tr>
+</tbody></table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<div style="text-align: justify;">
+<b><span style="font-size: x-small;">Las opiniones plasmadas en los artículos publicados en el Blog de Foco Rojo son de responsabilidad exclusiva del autor o autores de los mismos, y no reflejan necesariamente los puntos de vista de Foco Rojo.</span></b></div>
+</p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<style type='text/css'>
+#mintshare_mini, #mintshare_mini ul {padding:0; margin:0; list-style:none; width:100px; font-family:arial, sans-serif; background:#fff;}
+#mintshare_mini {width:100px; height:35px;padding: 0 15px;
+margin-top: 30px;
+margin-bottom: 20px;}
+#mintshare_mini a.sharetext {
+display:block; width:100px; height:30px; text-align:center; line-height:35px; color:#000; text-decoration:none; font-size:13px; font-weight:bold;
+background:#fff;
+padding-left:5px;
+cursor:pointer;}
+#mintshare_mini a.sharetext img {
+border: 0 none;
+display: block;
+margin-left: 10px;}
+#mintshare_mini .flyout {
+background: none repeat scroll 0 0 #AAAAAA;
+height: 113px;
+left: 40px;
+position: relative;
+top: -4px;
+width: 0;
+transition: width 1s ease-in-out;
+-o-transition: width 1s ease-in-out;
+-moz-transition: width 1s ease-in-out;
+-webkit-transition: width 1s ease-in-out;}
+#mintshare_mini .flyout ul {
+background:#fff;
+list-style:none;
+position:absolute; 
+top:-27px; 
+width:420px; 
+height:35px; 
+border-left:0; 
+left:50px;
+padding-right:10px;
+z-index: 1;
+overflow: hidden;
+padding-left: 15px;
+transition: 1s ease-in-out;
+-o-transition: 1s ease-in-out;
+-moz-transition: 1s ease-in-out;
+-webkit-transition: all 1s ease-in-out;}
+#mintshare_mini .flyout ul li {float: left;}
+#mintshare_mini .flyout ul li a{}
+#mintshare_mini .flyout ul a img {}
+#mintshare_mini .flyout ul li.drop-li {position:relative; width:35px; height:30px; float:left; z-index:100; margin-top: -2px;padding-left: 15px;}
+#mintshare_mini .flyout ul li.drop-li a.drop-a {display:block; width:100px; float:left; text-decoration:none; line-height:16px;}
+#mintshare_mini .flyout ul li.drop-li a.drop-a img {display:block; border:0; position:absolute; left:5px; top:5px; z-index:-1; opacity:1; filter: alpha(opacity=100);
+transition: 0.4s ease-in-out;
+-o-transition: 0.4s ease-in-out;
+-moz-transition: 0.4s ease-in-out;
+-webkit-transition: all 0.4s ease-in-out;}
+#mintshare_mini .flyout ul li.drop-li a b {background:lightBlue; padding:2px 0; font-family:arial, sans-serif; display:block; width:100px; margin-top:58px; text-align:center; cursor:pointer; color:#000; font-size:14px; opacity:0; filter: alpha(opacity=0);
+transition: 0.4s ease-in-out;
+-o-transition: 0.4s ease-in-out;
+-moz-transition: 0.4s ease-in-out;
+-webkit-transition: all 0.4s ease-in-out;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+border-radius:10px;
+-o-border-radius:10px;}
+#mintshare_mini .flyout ul li.drop-li:hover > a img {opacity:0.5; filter: alpha(opacity=50);}
+#mintshare_mini .flyout ul li.drop-li:hover > a b {opacity:1; filter: alpha(opacity=100);}
+#mintshare_mini .flyout ul li.drop-li a:hover img {filter: alpha(opacity=50);}
+#mintshare_mini .flyout ul li.drop-li a:hover b {filter: alpha(opacity=100);}
+#mintshare_mini .get_mintshare {
+font-size: 10px;
+margin-left: 5px;
+position: relative;
+top: 2px;}
+.relbg h5{
+color: #fafafa;
+font-weight: normal;}
+</style>
+<div id='mintshare_mini'>
+<a class='sharetext'><b>Share This</b>
+</a>
+<div class='flyout'>
+<ul class='icons'>
+<li class='drop-li'><a class='drop-a' href='http://www.facebook.com/sharer.php?u=http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html&title=La ciencia vs los estilos de aprendizaje'><img alt='' src='http://2.bp.blogspot.com/-uasPgJ8FzpU/UTZhVF-HKpI/AAAAAAAABCc/T17suG3HqE0/s000/facebook_small.png'/>
+</a>
+</li>
+<li class='drop-li'><a class='drop-a' href='http://twitter.com/share?url=http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html&title=La ciencia vs los estilos de aprendizaje'><img alt='' src='http://2.bp.blogspot.com/-jur_2AipClQ/UTZhVVtnd9I/AAAAAAAABCk/tVw7bFmJIPI/s000/twitter_small.png'/>
+</a>
+</li>
+<li class='drop-li'><a class='drop-a' href='http://www.stumbleupon.com/refer.php?url=http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html&title=La ciencia vs los estilos de aprendizaje'><img alt='' src='http://2.bp.blogspot.com/-O23PspclEI0/UTZhWHxaqqI/AAAAAAAABCs/IXa6vFgkOl0/s000/stumbleupon_small.png'/>
+</a>
+</li>
+<li class='drop-li'><a class='drop-a' href='http://digg.com/submit?phase=2&url=http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html&title=La ciencia vs los estilos de aprendizaje'><img alt='' src='http://3.bp.blogspot.com/-84yHYBVorq0/UTZhWZ5_-YI/AAAAAAAABC0/0MpUaGndkyk/s000/digg_small.png'/>
+</a>
+</li>
+<li class='drop-li'><a class='drop-a' href='http://www.technorati.com/faves?add=http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html'><img alt='' src='http://2.bp.blogspot.com/-s_3eZxi1Mek/UTZhW4F4eqI/AAAAAAAABC8/xuq4v2F8x3c/s000/technorati_small.png'/>
+</a>
+</li>
+<li class='drop-li'><a class='drop-a' href='http://reddit.com/submit?url=http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html&title=La ciencia vs los estilos de aprendizaje'><img alt='' src='http://3.bp.blogspot.com/-8V6IB-x-Y1o/UTZhXAQzRlI/AAAAAAAABDE/etlKCTnqeLs/s000/reddit_small.png'/>
+</a>
+</li>
+<li class='drop-li'><a class='drop-a' href='http://myweb2.search.yahoo.com/myresults/bookmarklet?t=http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html&title=La ciencia vs los estilos de aprendizaje'><img alt='' src='http://2.bp.blogspot.com/-BEP70dP0TU8/UTZhXmgRtSI/AAAAAAAABDM/88spH6ZCeMM/s000/yahoo_small.png'/>
+</a>
+</li>
+<li class='drop-li'><a class='drop-a' href='http://delicious.com/post?url=http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html&title=La ciencia vs los estilos de aprendizaje'><img alt='' src='http://4.bp.blogspot.com/-2G_pQcNz9eo/UTZhXzsS_SI/AAAAAAAABDU/HUOPJgs3MTE/s000/delicious_small.png'/>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-2133029051'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3486625946567547432&postID=4366698414791178861&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</div>
+</div>
+</div>
+<div class='clear'></div>
+<div id='commentsbox'>
+<a name='comments'></a>
+<ol class='commentlist'>
+</ol>
+<p class='comment-footer'>
+<div id='comment-form'>
+<div id='respond'>
+<a name='comment-form'></a>
+<h3>Comenta</h3>
+<p>
+</p>
+<a href='https://www.blogger.com/comment-iframe.g?blogID=3486625946567547432&postID=4366698414791178861' id='comment-editor-src'></a>
+<iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' width='100%'></iframe>
+<!--Can't find substitution for tag [post.friendConnectJs]-->
+<script src='https://www.blogger.com/static/v1/jsbin/3167449408-comment_from_post_iframe.js' type='text/javascript'></script>
+<script type='text/javascript'>
+      BLOG_CMT_createIframe('https://www.blogger.com/rpc_relay.html', '0');
+    </script>
+<a href='http://focorojomx.blogspot.com/feeds/posts/default'>Subscribe to Posts</a> | <a href='http://focorojomx.blogspot.com/feeds/comments/default'>Subscribe to Comments</a>
+</div>
+</div>
+</p>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+</div>
+</div>
+</div>
+</div>
+
+      </div></div>
+    
+<!--Can't find substitution for tag [adEnd]-->
+</div>
+<div class='clear'></div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='http://focorojomx.blogspot.com/2017/11/la-verdad-y-la-mentira-en-el-contexto.html' id='Blog1_blog-pager-newer-link' title='Entrada más reciente'>NEXT</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://focorojomx.blogspot.com/2017/09/13-razones-por-que-debemos-prestar.html' id='Blog1_blog-pager-older-link' title='Entrada antigua'>PREV</a>
+</span>
+<a class='home-link' href=''>HOME</a>
+</div>
+<div class='clear'></div>
+</div></div>
+</div>
+<ul id='jocial'>
+<li><a class='icon facebook' href='http://www.facebook.com/FocoRojoMx/'></a></li>
+<li><a class='icon twitter' href='http://twitter.com/FocoRojoMx/'></a></li>
+<li><a class='icon googleplus' href='https://plus.google.com/b/109271283075660444183/109271283075660444183/posts/'></a></li>
+<li><a class='icon rss' href='http://feeds.feedburner.com/FocoRojo'></a></li>
+</ul>
+<div class='main3 section' id='main3'><div class='widget Label' data-version='1' id='Label1'>
+<h2>Etiquetas</h2>
+<div class='widget-content cloud-label-widget-content'>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Prevenci%C3%B3n'>Prevención</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Factores%20de%20Riesgo'>Factores de Riesgo</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Violencia'>Violencia</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Violencia%20Juvenil'>Violencia Juvenil</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Adolescentes'>Adolescentes</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Violencia%20de%20G%C3%A9nero'>Violencia de Género</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Delitos%20sexuales'>Delitos sexuales</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Derechos%20Humanos'>Derechos Humanos</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Espacio'>Espacio</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Factores%20de%20Protecci%C3%B3n.'>Factores de Protección.</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Meta-an%C3%A1lisis'>Meta-análisis</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Psicolog%C3%ADa'>Psicología</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Relaciones%20de%20Poder'>Relaciones de Poder</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Victimas'>Victimas</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Violaci%C3%B3n'>Violación</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Violencia%20de%20Pareja'>Violencia de Pareja</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Basado%20en%20Evidencia'>Basado en Evidencia</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Conductas%20Violentas'>Conductas Violentas</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Delincuencia'>Delincuencia</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Delitos'>Delitos</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Prevenci%C3%B3n%20del%20Delito'>Prevención del Delito</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Salud%20P%C3%BAblica'>Salud Pública</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Violencia%20hacia%20las%20Mujeres'>Violencia hacia las Mujeres</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Agresores'>Agresores</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/An%C3%A1lisis%20Cr%C3%ADtico'>Análisis Crítico</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Criminalidad'>Criminalidad</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Cursos'>Cursos</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/C%C3%A1rcel'>Cárcel</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Derecho'>Derecho</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Disciplina'>Disciplina</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Docencia'>Docencia</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Educaci%C3%B3n'>Educación</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Estilos%20de%20Crianza'>Estilos de Crianza</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Indicadores%20de%20Evaluaci%C3%B3n'>Indicadores de Evaluación</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Intervenci%C3%B3n%20Psicoeducativa'>Intervención Psicoeducativa</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Intervenci%C3%B3n%20en%20Crisis'>Intervención en Crisis</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Justicia%20Restaurativa'>Justicia Restaurativa</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Mecanismos%20Alternativos%20de%20Soluci%C3%B3n%20de%20Conflictos'>Mecanismos Alternativos de Solución de Conflictos</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/M%C3%A9xico'>México</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Neuropsicolog%C3%ADa%20de%20la%20Violencia'>Neuropsicología de la Violencia</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Reparaci%C3%B3n%20del%20Da%C3%B1o'>Reparación del Daño</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Seguridad%20Ciudadana'>Seguridad Ciudadana</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Sistema%20educativo'>Sistema educativo</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Suicidio'>Suicidio</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Violencia%20en%20el%20%C3%A1mbito%20escolar'>Violencia en el ámbito escolar</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Yucat%C3%A1n'>Yucatán</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Abuso%20de%20Poder'>Abuso de Poder</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Acoso%20Sexual'>Acoso Sexual</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Adolescentes%20Infractores'>Adolescentes Infractores</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Alternativas%20en%20intervenci%C3%B3n%20psicol%C3%B3gica'>Alternativas en intervención psicológica</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Am%C3%A9rica%20Latina'>América Latina</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/An%C3%A1lisis%20de%20contenido%20basado%20en%20criterios'>Análisis de contenido basado en criterios</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Art%C3%ADculos%20por%20partes'>Artículos por partes</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Avisos'>Avisos</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Basado%20en%20evidencia.'>Basado en evidencia.</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Bienvenida'>Bienvenida</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Bullying'>Bullying</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Calidad%20de%20la%20educaci%C3%B3n'>Calidad de la educación</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Ciudadania'>Ciudadania</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Conducta%20criminal'>Conducta criminal</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Correlatos%20hormonales'>Correlatos hormonales</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Detecci%C3%B3n%20del%20enga%C3%B1o'>Detección del engaño</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Discriminaci%C3%B3n'>Discriminación</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Eficacia%20de%20la%20terapia'>Eficacia de la terapia</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Eficiencia%20de%20la%20terapia'>Eficiencia de la terapia</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Enfoques%20cl%C3%ADnicos'>Enfoques clínicos</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Estilos%20de%20aprendizaje'>Estilos de aprendizaje</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Estrategias'>Estrategias</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Estrategias%20de%20ense%C3%B1anza'>Estrategias de enseñanza</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Evento%20Traum%C3%A1tico'>Evento Traumático</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Experimentos'>Experimentos</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Familia'>Familia</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Foco%20Rojo'>Foco Rojo</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Gobierno'>Gobierno</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Guerrillas'>Guerrillas</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Historia%20de%20la%20Psicolog%C3%ADa.%20Evoluci%C3%B3n%20de%20la%20Psicolog%C3%ADa.'>Historia de la Psicología. Evolución de la Psicología.</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Immigraci%C3%B3n'>Immigración</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Infractores'>Infractores</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Ingl%C3%A9s'>Inglés</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Ley%20General%20de%20Victimas'>Ley General de Victimas</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Mensaje'>Mensaje</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Mentira'>Mentira</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Milgram'>Milgram</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Modelo%20Ecol%C3%B3gico'>Modelo Ecológico</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Narcisista.'>Narcisista.</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Ni%C3%B1as.'>Niñas.</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Ni%C3%B1os'>Niños</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Normatividad'>Normatividad</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Obediencia'>Obediencia</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Oxitocina'>Oxitocina</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Paranoide'>Paranoide</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Participaci%C3%B3n%20Ciudadana'>Participación Ciudadana</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Peligrosidad'>Peligrosidad</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Penas.'>Penas.</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Peritajes%20psicol%C3%B3gicos'>Peritajes psicológicos</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Poligraf%C3%ADa'>Poligrafía</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Pol%C3%ADtica%20Criminol%C3%B3gica'>Política Criminológica</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Pol%C3%ADtica%20P%C3%BAblica'>Política Pública</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Predicci%C3%B3n'>Predicción</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Prevenci%C3%B3n%20del%20Uso%20de%20Sustancias'>Prevención del Uso de Sustancias</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Primeros%20auxilios%20psicol%C3%B3gicos'>Primeros auxilios psicológicos</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Psicofisiolog%C3%ADa'>Psicofisiología</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Psicolog%C3%ADa%20Experimental'>Psicología Experimental</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Psicolog%C3%ADa%20basada%20en%20evidencia'>Psicología basada en evidencia</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Psicolog%C3%ADa%20forense'>Psicología forense</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Psicolog%C3%ADa%20jur%C3%ADdica'>Psicología jurídica</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Psicopat%C3%ADa'>Psicopatía</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Psicoterapia%20basada%20en%20evidencia'>Psicoterapia basada en evidencia</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Reflexi%C3%B3n'>Reflexión</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Reinserci%C3%B3n%20Social.'>Reinserción Social.</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Represi%C3%B3n%20del%20Delito'>Represión del Delito</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Revisiones%20Sistem%C3%A1ticas'>Revisiones Sistemáticas</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Robert%20Hare'>Robert Hare</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Seguridad%20P%C3%BAblica'>Seguridad Pública</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Sensorama'>Sensorama</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Series%20de%20tiempo'>Series de tiempo</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Sin%20Etiquetas'>Sin Etiquetas</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Sociolog%C3%ADa'>Sociología</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/S%C3%ADntomas'>Síntomas</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Trastorno%20de%20Estr%C3%A9s%20Postraum%C3%A1tico'>Trastorno de Estrés Postraumático</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Trastornos%20de%20Personalidad'>Trastornos de Personalidad</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Trauma'>Trauma</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Victimolog%C3%ADa'>Victimología</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Victimolog%C3%ADa.%20Ley%20General%20de%20Victimas'>Victimología. Ley General de Victimas</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Violaci%C3%B3n%20a%20los%20Derechos%20Humanos.'>Violación a los Derechos Humanos.</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Violencia%20Sexual'>Violencia Sexual</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/Violencia%20y%20Videojuegos'>Violencia y Videojuegos</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/bienestar%20psicol%C3%B3gico'>bienestar psicológico</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/bienestar.'>bienestar.</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/estereotipos'>estereotipos</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/imaginario%20negativo'>imaginario negativo</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/justicia%20terap%C3%A9utica'>justicia terapéutica</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/juzgados%20de%20resoluci%C3%B3n%20de%20problemas'>juzgados de resolución de problemas</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/nutrici%C3%B3n'>nutrición</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/poder'>poder</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/prisi%C3%B3n'>prisión</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/psicolog%C3%ADa%20positiva'>psicología positiva</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/psicolog%C3%ADa.'>psicología.</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/reevictimizaci%C3%B3n.'>reevictimización.</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/reincidencia'>reincidencia</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/salud%20mental'>salud mental</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/tatuajes'>tatuajes</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/validaci%C3%B3n%20de%20la%20intervenci%C3%B3n%20cl%C3%ADnica.'>validación de la intervención clínica.</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://focorojomx.blogspot.com/search/label/%C3%89tica'>Ética</a>
+</span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3486625946567547432&widgetType=Label&widgetId=Label1&action=editWidget&sectionId=main3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label1"));' rel='nofollow' target='configLabel1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Archivos del Blog</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2019/'>
+2019
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2019/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2018/'>
+2018
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2018/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2018/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2018/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2018/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2018/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2018/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2018/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2018/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2018/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2017/'>
+2017
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2017/12/'>
+diciembre
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2017/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2017/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='posts'>
+<li><a href='http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html'>La ciencia vs los estilos de aprendizaje</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2017/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2017/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2017/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2017/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2016/'>
+2016
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2016/11/'>
+noviembre
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2016/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2016/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2016/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2015/'>
+2015
+</a>
+<span class='post-count' dir='ltr'>(38)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2015/10/'>
+octubre
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2015/09/'>
+septiembre
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2015/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2015/07/'>
+julio
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2015/06/'>
+junio
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2015/05/'>
+mayo
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2015/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2015/03/'>
+marzo
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2015/02/'>
+febrero
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://focorojomx.blogspot.com/2015/01/'>
+enero
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3486625946567547432&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=main3' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' rel='nofollow' target='configBlogArchive1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Con la tecnología de <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3486625946567547432&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=main3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' rel='nofollow' target='configAttribution1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+<div id='footer'>
+<div class='footer'>
+<div class='main4 no-items section' id='main4'></div>
+<div class='main5 section' id='main5'><div class='widget PopularPosts' data-version='1' id='PopularPosts2'>
+<h2>Entradas populares</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<a href='http://focorojomx.blogspot.com/2015/04/porque-ocurre-la-violencia-sexual.html'>&#191;Porqué ocurre la Violencia Sexual?</a>
+</li>
+<li>
+<a href='http://focorojomx.blogspot.com/2015/02/pandillas-y-bandas-juveniles.html'>Pandillas y Bandas Juveniles</a>
+</li>
+<li>
+<a href='http://focorojomx.blogspot.com/2015/05/el-sensorama-como-tecnica-dentro-del.html'>El sensorama como técnica dentro del trabajo psicoeducativo con adolescentes infractores</a>
+</li>
+<li>
+<a href='http://focorojomx.blogspot.com/2015/07/conductas-violentas-y-el-trastorno-de.html'>Conductas Violentas  y el Trastorno de Personalidad Narcisista con Rasgos Paranoides</a>
+</li>
+<li>
+<a href='http://focorojomx.blogspot.com/2015/09/la-justicia-restaurativa-origen.html'>La Justicia Restaurativa: origen, concepto y mecanismos  alterativos de solución de conflictos.</a>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3486625946567547432&widgetType=PopularPosts&widgetId=PopularPosts2&action=editWidget&sectionId=main5' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts2"));' rel='nofollow' target='configPopularPosts2' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+<div class='main6 section' id='main6'><div class='widget FollowByEmail' data-version='1' id='FollowByEmail1'>
+<h2 class='title'>Síguenos por Email</h2>
+<div class='widget-content'>
+<div class='follow-by-email-inner'>
+<form action='https://feedburner.google.com/fb/a/mailverify' method='post' onsubmit='window.open("https://feedburner.google.com/fb/a/mailverify?uri=FocoRojo", "popupwindow", "scrollbars=yes,width=550,height=520"); return true' target='popupwindow'>
+<table width='100%'>
+<tr>
+<td>
+<input class='follow-by-email-address' name='email' placeholder='Email address...' type='text'/>
+</td>
+<td width='64px'>
+<input class='follow-by-email-submit' type='submit' value='Submit'/>
+</td>
+</tr>
+</table>
+<input name='uri' type='hidden' value='FocoRojo'/>
+<input name='loc' type='hidden' value='en_US'/>
+</form>
+</div>
+</div>
+<span class='item-control blog-admin'>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3486625946567547432&widgetType=FollowByEmail&widgetId=FollowByEmail1&action=editWidget&sectionId=main6' onclick='return _WidgetManager._PopupConfig(document.getElementById("FollowByEmail1"));' rel='nofollow' target='configFollowByEmail1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</span>
+</div><div class='widget Stats' data-version='1' id='Stats1'>
+<h2>Visitas</h2>
+<div class='widget-content'>
+<div id='Stats1_content' style='display: none;'>
+<span class='counter-wrapper text-counter-wrapper' id='Stats1_totalCount'>
+</span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3486625946567547432&widgetType=Stats&widgetId=Stats1&action=editWidget&sectionId=main6' onclick='return _WidgetManager._PopupConfig(document.getElementById("Stats1"));' rel='nofollow' target='configStats1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div></div>
+</div><div class='clear'></div></div></div>
+<div class='fleft'>
+<p>- Copyright &copy; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script>
+Foco Rojo -<a href='http://metrominimalist.blogspot.com' target='_blank'>Metrominimalist</a>- Powered by <a href='http://blogger.com/'>Blogger</a> - Designed by <a href='http://djogzs.blogspot.com' title='johanes djogan'>Johanes Djogan</a> -</p></div>
+<!--It is your responsibility to notify your visitors about cookies used and data collected on your blog. Blogger makes a standard notification available for you to use on your blog, and you can customize it or replace with your own notice. See http://www.blogger.com/go/cookiechoices for more details.-->
+<script defer='' src='/js/cookienotice.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+          (window.cookieOptions && cookieOptions.msg) || 'This site uses cookies from Google to deliver its services and to analyze traffic. Your IP address and user-agent are shared with Google along with performance and security metrics to ensure quality of service, generate usage statistics, and to detect and address abuse.',
+          (window.cookieOptions && cookieOptions.close) || 'Ok',
+          (window.cookieOptions && cookieOptions.learn) || 'Learn More',
+          (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
+    });
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/1791449097-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY53NGjVnZIZGKW-Uri8hubfb1GZ-A:1605527871567';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d3486625946567547432','//focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html','3486625946567547432');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '3486625946567547432', 'title': 'Foco Rojo', 'url': 'http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html', 'canonicalUrl': 'http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html', 'homepageUrl': 'http://focorojomx.blogspot.com/', 'searchUrl': 'http://focorojomx.blogspot.com/search', 'canonicalHomepageUrl': 'http://focorojomx.blogspot.com/', 'blogspotFaviconUrl': 'http://focorojomx.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'es', 'localeUnderscoreDelimited': 'es', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Foco Rojo - Atom\x22 href\x3d\x22http://focorojomx.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Foco Rojo - RSS\x22 href\x3d\x22http://focorojomx.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Foco Rojo - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/3486625946567547432/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Foco Rojo - Atom\x22 href\x3d\x22http://focorojomx.blogspot.com/feeds/4366698414791178861/comments/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/7e19d31deb41b605', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Obtener enlace', 'key': 'link', 'shareMessage': 'Obtener enlace', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Compartir en Facebook', 'target': 'facebook'}, {'name': 'Escribe un blog', 'key': 'blogThis', 'shareMessage': 'Escribe un blog', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Compartir en Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Compartir en Pinterest', 'target': 'pinterest'}, {'name': 'Correo electrónico', 'key': 'email', 'shareMessage': 'Correo electrónico', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27es\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Leer más', 'pageType': 'item', 'postId': '4366698414791178861', 'postImageThumbnailUrl': 'https://3.bp.blogspot.com/-HU3aLoFrqoM/WeEeeJL_PZI/AAAAAAAABD0/yrndNuV0FRoedVyLYbfLZLqOlsex2UZ0QCLcBGAs/s72-c/Jugando_a_aprender_BAJA.jpg', 'postImageUrl': 'https://3.bp.blogspot.com/-HU3aLoFrqoM/WeEeeJL_PZI/AAAAAAAABD0/yrndNuV0FRoedVyLYbfLZLqOlsex2UZ0QCLcBGAs/s640/Jugando_a_aprender_BAJA.jpg', 'pageName': 'La ciencia vs los estilos de aprendizaje', 'pageTitle': 'Foco Rojo: La ciencia vs los estilos de aprendizaje'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Editar', 'linkCopiedToClipboard': 'El enlace se ha copiado en el Portapapeles.', 'ok': 'Aceptar', 'postLink': 'Enlace de la entrada'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Personalizado', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'La ciencia vs los estilos de aprendizaje', 'description': '         Si eres docente o estás inmerso en el área de la educación (u otras áreas relacionadas) probablemente has escuchado acerca de los e...', 'featuredImage': 'https://3.bp.blogspot.com/-HU3aLoFrqoM/WeEeeJL_PZI/AAAAAAAABD0/yrndNuV0FRoedVyLYbfLZLqOlsex2UZ0QCLcBGAs/s640/Jugando_a_aprender_BAJA.jpg', 'url': 'http://focorojomx.blogspot.com/2017/10/la-ciencia-vs-los-estilos-de-aprendizaje.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': false, 'isPost': true, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'postId': 4366698414791178861}}]);
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'blognames', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2118106406-lbx__es.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'main3', document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'main3', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Cargando\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'main3', document.getElementById('Attribution1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts2', 'main5', document.getElementById('PopularPosts2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowByEmailView', new _WidgetInfo('FollowByEmail1', 'main6', document.getElementById('FollowByEmail1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_StatsView', new _WidgetInfo('Stats1', 'main6', document.getElementById('Stats1'), {'title': 'Visitas', 'showGraphicalCounter': false, 'showAnimatedCounter': false, 'showSparkline': false, 'statsUrl': '//focorojomx.blogspot.com/b/stats?style\x3dBLACK_TRANSPARENT\x26timeRange\x3dALL_TIME\x26token\x3dAPq4FmCsnrvUXe2bMFEIbC5ezAtsK7iLIWgjRmA2BHPpP4RkNMrLcPDhkX595KDqK8EY4ssjPFQQbnbVYl0P9NZBbPlYvq2Qpg'}, 'displayModeFull'));
+</script>
+</body></HTML>
